@@ -1,19 +1,28 @@
 # :construction: WIP :construction: Zilker Jekyll Theme
 
-Zilker is a work-in-progress Jekyll theme designed for City websites hosted on GitHub Pages.
+Zilker is a work-in-progress Jekyll theme for City of Austin websites.
 
-## Features
+## Installation
 
-TBD
+Add this line to your Jekyll site's `Gemfile`:
+
+```ruby
+gem "jekyll-theme-zilker", github: "cityofaustin/zilker-theme"
+```
+
+And add this line to your Jekyll site's `_config.yml`:
+
+```yaml
+theme: jekyll-theme-zilker
+```
+
+And then execute:
+
+    $ bundle
 
 ## Usage
 
-GitHub Pages doesn't currently support custom [gem themes], so we recommend forking this repository to use the theme for new GitHub Pages sites.
-
-Updates will be tagged and released using [semantic versioning] to indicate compatibility changes that may affect downstream forks.
-
-[gem themes]: https://jekyllrb.com/docs/themes/
-[semantic versioning]: https://semver.org
+TBD
 
 ## Configuration
 
