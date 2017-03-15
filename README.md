@@ -1,28 +1,28 @@
-# Example Project
+# :construction: WIP :construction: Zilker Jekyll Theme
 
-<!-- Edit this file to fit your project after cloning or forking the theme repo. -->
+Zilker is a work-in-progress Jekyll theme designed for City websites hosted on GitHub Pages.
 
-This is an example README for new projects using the Zilker Theme. To set up a new site using Zilker, first follow the instructions at https://cityofaustin.github.io/zilker-theme/, then edit this file in your project's repository.
+## Features
 
-## Contributing
+TBD
 
-To learn about how this site is set up, and how to edit it, read the [GitHub Pages guide].
+## Usage
 
-[GitHub Pages guide]: http://guides.austintexas.io/github-pages/
+GitHub Pages doesn't currently support custom [gem themes], so we recommend forking this repository to use the theme for new GitHub Pages sites.
 
-## Theme
+Updates will be tagged and released using [semantic versioning] to indicate compatibility changes that may affect downstream forks.
 
-<!-- Keep this section if you think you might want to update the theme in the future. -->
+[gem themes]: https://jekyllrb.com/docs/themes/
+[semantic versioning]: https://semver.org
 
-This site is based on the [Zilker Theme]. In most cases, it probably started as a clone of the theme's repository, which means that you can update the theme files using `git merge`:
+## Configuration
 
-```
-$ git checkout -b theme-update
-$ git remote add zilker https://github.com/cityofaustin/zilker-theme.git
-$ git fetch zilker
-$ git merge zilker/master
-```
+TBD
 
-Note: merging theme updates in this way is only likely to succeed if the theme files haven't changed in this project. If they have, you may need to resolve merge conflicts to proceed, which requires an intermediate understanding of Git.
+## Components
 
-[Zilker Theme]: https://github.com/cityofaustin/zilker-theme
+TBD
+
+## Layouts
+
+TBD
