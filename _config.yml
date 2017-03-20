@@ -1,3 +1,16 @@
 title: Zilker Theme
 description: Zilker is a Jekyll theme for City of Austin websites.
 theme:
+
+permalink: pretty
+
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      layout: "page"
+
+collections:
+  example:
+    output: true
