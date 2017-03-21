@@ -8,17 +8,25 @@
 
     {% include header.html %}
 
-    {% comment %} Capture navbar_content and sidenav_content {% endcomment %}
-    {% include nav.html %}
-
     <div class="usa-grid">
-      <div class="usa-width-one-whole">
-        {{navbar_content}}
-      </div>
+      {% if page.collection %}
+        {% assign collection_url = page.collection | prepend: "/" | append: "/" %}
+        {% assign collection_page = site.pages | where: "url", collection_url | first %}
 
-      <aside class="usa-width-one-fourth">
-        {{sidenav_content}}
-      </aside>
+        <div class="usa-width-one-whole">
+          <h1>{{collection_page.title}}</h1>
+        </div>
+
+        <aside class="usa-width-one-fourth">
+          {% assign items = site[page.collection] | sort: "url" | sort: "position" %}
+          {% include sidenav.html items=items base=collection_url %}
+        </aside>
+      {% else %}
+        <aside class="usa-width-one-fourth">
+          {% assign items = site.pages | sort: "url" | sort: "position" %}
+          {% include sidenav.html items=items base="/" %}
+        </aside>
+      {% endif %}
 
       <main id="main-content" class="usa-width-three-fourths usa-content">
         {{content}}
