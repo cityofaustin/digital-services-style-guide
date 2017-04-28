@@ -1,0 +1,87 @@
+{
+  "name": "cityofaustin/zilker-theme",
+  "version": "0.1.4",
+  "libraries": {
+    "xv": "^1.1.25"
+  },
+  "title": "Zilker Theme",
+  "branch": "",
+  "style": {
+    "name": "Swiss",
+    "componentSet": {
+      "nav": "nav/BasicNav",
+      "header": "header/SwissHeader",
+      "article": "article/SwissArticle",
+      "footer": "footer/BasicFooter"
+    },
+    "fontFamily": "\"Helvetica Neue\", Helvetica, Arial, sans-serif",
+    "heading": {
+      "fontWeight": 700,
+      "letterSpacing": "-0.01em"
+    },
+    "layout": {
+      "fluid": true
+    },
+    "colors": {
+      "text": "#000",
+      "background": "#fff",
+      "primary": "#05a",
+      "secondary": "#444",
+      "highlight": "#f30",
+      "border": "#ccc",
+      "muted": "#eee"
+    }
+  },
+  "content": [
+    {
+      "component": "nav",
+      "links": [
+        {
+          "href": "https://cityofaustin.github.io/zilker-theme/",
+          "text": "Home"
+        },
+        {
+          "href": "https://github.com/cityofaustin/zilker-theme",
+          "text": "GitHub"
+        }
+      ]
+    },
+    {
+      "component": "header",
+      "heading": "zilker-theme",
+      "subhead": "A work-in-progress Jekyll theme for City websites on GitHub Pages.",
+      "children": [
+        {
+          "component": "ui/TweetButton",
+          "text": "zilker-theme: A work-in-progress Jekyll theme for City websites on GitHub Pages.",
+          "url": "https://cityofaustin.github.io/zilker-theme/"
+        },
+        {
+          "component": "ui/GithubButton",
+          "user": "cityofaustin",
+          "repo": "zilker-theme"
+        }
+      ]
+    },
+    {
+      "component": "article",
+      "metadata": {
+        "source": "github.readme"
+      },
+      "html": "<h1>:construction: WIP :construction: Zilker Jekyll Theme</h1>\n<p>Zilker is a work-in-progress Jekyll theme for City of Austin websites.</p>\n<h2>Installation</h2>\n<p>Add this line to your Jekyll site&apos;s <code>Gemfile</code>:</p>\n<pre>gem <span class=\"hljs-string\">&quot;jekyll-theme-zilker&quot;</span>, <span class=\"hljs-symbol\">github:</span> <span class=\"hljs-string\">&quot;cityofaustin/zilker-theme&quot;</span></pre><p>And add this line to your Jekyll site&apos;s <code>_config.yml</code>:</p>\n<pre><span class=\"hljs-attr\">theme:</span> <span class=\"hljs-string\">jekyll-theme-zilker</span></pre><p>And then execute:</p>\n<pre><span class=\"hljs-variable\">$ </span>bundle</pre><h2>Usage</h2>\n<h3>Navigation</h3>\n<p>Zilker generates site-wide navigation automatically, with zero configuration. The primary &quot;global&quot; navigation renders Jekyll&apos;s <code>site.pages</code> sorted by URL and optionally by a <code>position</code> front-matter property, if set.</p>\n<p>Pages in subfolders, like <code>parent/child.md</code>, render as visual children of their parent, e.g. <code>parent.md</code>. The parent page must exist for the child page to appear in the navigation.</p>\n<p>The navigation logic is recursive, and works with deeply nested children, but exceeding two levels is not recommended.</p>\n<h3>Collections</h3>\n<p>Zilker also supports per-section sub-navigation using Jekyll <a href=\"https://jekyllrb.com/docs/collections/\">Collections</a>. Given a collection named <code>example</code>, each document in <a href=\"_example/\">_example/</a> will include navigation to the other documents in the collection when output.</p>\n<p>To show a collection in the primary navigation, Zilker looks for a &quot;collection index&quot; page at the site root, e.g. <a href=\"example.md\">example.md</a>. The page&apos;s front-matter must include a <code>collection</code> property matching the collection key in <a href=\"_config.yml\">_config.yml</a>, and its permalink must match the collection&apos;s.</p>\n<p>Sorting and parent-child relationships work the same way in a collection&apos;s sub-navigation as in the primary navigation.</p>\n<h2>Configuration</h2>\n<p>TBD</p>\n<h2>Components</h2>\n<p>TBD</p>\n<h2>Layouts</h2>\n<p>TBD</p>\n"
+    },
+    {
+      "component": "footer",
+      "links": [
+        {
+          "href": "https://github.com/cityofaustin/zilker-theme",
+          "text": "GitHub"
+        },
+        {
+          "href": "https://github.com/cityofaustin",
+          "text": "cityofaustin"
+        }
+      ]
+    }
+  ]
+}
