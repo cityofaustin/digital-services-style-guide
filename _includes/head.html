@@ -1,26 +1,23 @@
 <head>
-  <meta charset="utf-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1">
 
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    {% seo %}
 
-{% if page.title %}
-  <title>{{ site.title }} | {{ page.title }}</title>
-  <meta property="og:title" content="{{ site.title | xml_escape }} | {{ page.title | xml_escape }}" />
-{% else %}
-  <title>{{ site.title }}</title>
-  <meta property="og:title" content="{{ site.title | xml_escape }} | {{ site.title | xml_escape }}" />
-{% endif %}
+    <link rel="shortcut icon" type="image/ico" href="{{ site.baseurl }}/favicon.ico" />
 
-{% if page.description %}
-  <meta name="description" content="{{ page.description | xml_escape }}">
-  <meta property="og:description" content="{{ page.description | xml_escape }}" />
-{% else %}
-  <meta name="description" content="{{ site.description | xml_escape }}">
-  <meta property="og:description" content="{{ site.description | xml_escape }}" />
-{% endif %}
+    <link rel="apple-touch-icon" sizes="180x180" href="{{ site.baseurl }}/assets/favicons/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="{{ site.baseurl }}/assets/favicons/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="{{ site.baseurl }}/assets/favicons/favicon-16x16.png">
+    <link rel="manifest" href="{{ site.baseurl }}/assets/favicons/manifest.json">
+    <meta name="theme-color" content="#ffffff">
 
-  <link rel="canonical" href="{{ site.url }}{{ page.url }}" />
 
-  <link rel="stylesheet" href="{{site.baseurl}}/assets/vendor/uswds-0.12.1/css/uswds.min.css">
+    <link rel="stylesheet" href="{{ site.baseurl }}/assets/stylesheets/application.css">
+    <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ site.url }}{{ site.baseurl }}/feed.xml">
+
+    <link href='https://fonts.googleapis.com/css?family=Roboto:400,500,700' rel='stylesheet' type='text/css'>
+    <script src="{{ site.baseurl }}/assets/javascripts/application.js"></script>
+
 </head>

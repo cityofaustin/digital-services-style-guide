@@ -1,0 +1,7 @@
+<nav>
+  <ul class="top-level-list">
+    {% for item in site.data.labels.site_nav %}
+    <li><a href="{{ site.baseurl }}{{ item.path }}"{% if page.url == item.path %}class="active-parent"{% endif %} title="{{ item.label }}" role="menuitem">{{ item.label }}</a></li>
+    {% endfor %}
+  </ul>
+</nav>

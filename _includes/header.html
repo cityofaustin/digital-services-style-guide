@@ -1,23 +1,40 @@
-<a class="usa-skipnav" href="#main-content">Skip to main content</a>
-
-<div class="usa-disclaimer">
-  <div class="usa-grid">
-    <div class="usa-disclaimer-official">
-      <p>An official website of the City of Austin.</p>
-    </div>
+<header class="pre-header">
+  <div class="header--translate">
+    <div role="menu" id="google_translate_element"></div>
   </div>
-</div>
 
-<header class="usa-header" role="banner">
-  <div class="usa-nav-container">
-    <div class="usa-navbar">
-      <button class="usa-menu-btn">Menu</button>
-      <div class="usa-logo" id="logo">
-        <em class="usa-logo-text">
-          <a href="{{site.baseurl}}/" accesskey="1" title="Home" aria-label="Home">{{site.title}}</a>
-        </em>
+
+  <div class="container-fluid">
+    <div class="row">
+      <button id="drawer-button--menu" aria-label="Mobile Menu Control" aria-pressed="false" aria-controls="site-mobile-menu" class="col-xs usa-button mobile-menu-button">
+        <svg class="icon icon--menu" width="15" height="15" viewbox="0 0 32 32" preserveAspectRatio="xMinYMin"><use xlink:href="#icon--menu"></use></svg>
+        <svg class="icon icon--close" width="15" height="15" viewbox="0 0 32 32" preserveAspectRatio="xMinYMin"><use xlink:href="#icon--close"></use></svg>
+      </button>
+
+      <div class="no-logo start-xs col-xs">
+        <span>{{ site.data.labels.intro_markdown | strip_newlines | markdownify }}</span>
+      </div>
+      <div class="mobile-site-title start-xs col-xs">
+        <span>{{ site.data.labels.site_title }}</span>
+      </div>
+      <div class="control-translate end-xs start-sm col-xs">
+        <span tabindex="10" aria-label="Translate Menu Control" aria-role="button" aria-controls="google_translate_element" id="drawer-button--translate" aria-pressed="false">{{ site.data.labels.translate }}</span>
       </div>
     </div>
   </div>
 </header>
-<div class="usa-overlay"></div>
+<header class="site-header">
+  <div class="container-fluid container">
+    <div class="row">
+      <div class="desktop-site-title start-xs hidden-xs col-md-3">
+        <span>{{ site.data.labels.site_title }}</span>
+      </div>
+      <div class="center-xs col-xs-12 col-md-6 header-menu">
+        {% include site-nav.html %}
+      </div>
+      <div class="end-xs hidden-xs col-md-3 button-wrap">
+        <a class="usa-button usa-button-outline" href="{{ site.data.labels.header_projects_button_url }}">{{ site.data.labels.header_projects_button_text }}</a>
+      </div>
+    </div>
+  </div>
+</header>

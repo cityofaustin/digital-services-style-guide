@@ -1,16 +1,57 @@
 title: Zilker Theme
 description: Zilker is a Jekyll theme for City of Austin websites.
-theme:
-
-permalink: pretty
+email: innovationfellows@austintexas.gov
+timezone: UTC
+collections:
+  examplecollection:
+    title: Example
+    output: true
+    permalink: "/:collection/:path/"
 
 defaults:
-  -
-    scope:
-      path: ""
-    values:
-      layout: "page"
+- scope:
+    path: ''
+  values:
+    layout: full-page
+- scope:
+    path: 'example-folder'
+  values:
+    layout: sidebar-page
+- scope:
+    path: ''
+    type: examplecollection
+  values:
+    layout: sidebar-page
 
-collections:
-  example:
-    output: true
+baseurl:
+url: http://projects.austintexas.io
+twitter:
+  username: civiqueso
+zilker_theme: dark
+markdown: kramdown
+gems:
+- jekyll-seo-tag
+- jekyll-sitemap
+- jekyll-redirect-from
+webrick:
+  headers:
+    Access-Control-Allow-Origin: "*"
+sass:
+  sass_dir: assets/stylesheets/
+permalink: pretty
+exclude:
+- node_modules
+- gulpfile.js
+- Gemfile
+- Gemfile.lock
+- npm-debug.log
+- "/screenshots"
+- "/assets/stylesheets/bourbon"
+- "/assets/stylesheets/bourbon-neat"
+- "/assets/uswds/stylesheets"
+- "/assets/uswds/js"
+- ".bundle"
+- "/vendor"
+- _bourbon
+- _bourbon-neat
+- _uswds
