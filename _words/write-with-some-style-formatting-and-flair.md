@@ -32,7 +32,8 @@ Long paragraphs of text can be tiring to read, bullets help make content scannab
 * Don’t capitalize personal titles unless they precede a name.
     * “Please call the city manager.”
     * “Nice to meet you, City Manager Smith.”
- ## Conscious Style
+
+## Conscious Style
 * Use “older person” rather than “senior” or “elderly.”
 * Avoid using “citizen,” as many government programs serve non-citizens. Instead, use:
    * People
