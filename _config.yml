@@ -24,7 +24,7 @@ defaults:
     layout: sidebar-page
 
 baseurl:
-url: http://styleguide.austintexas.io
+url: https://cityofaustin.github.io/fellows-style-guide
 twitter:
   username: civiqueso
 zilker_theme: dark

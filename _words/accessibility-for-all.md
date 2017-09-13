@@ -20,7 +20,7 @@ Users with disabilities often use screen reading software, like JAWS and COBRA, 
 
 ### What do you see in this image?
 
-![A photo of a blank, white square.](/assets/img/blank-square.png)
+![A photo of a blank, white square.]({{ site.baseurl }}/assets/img/blank-square.png)
 
 Your answer was probably “nothing.” This is a similar experience for someone using a screen reader if your image has no alternative text. Screen readers can’t read what an image is, making the image invisible and inaccessible to residents, or anyone trying to access that information.
 

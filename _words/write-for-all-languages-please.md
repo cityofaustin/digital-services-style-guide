@@ -9,7 +9,7 @@ Writing with service-oriented language makes it easier to translate content into
 Why should it matter if it’s easy to translate content into another language? Isn’t that why we have Google Translate? Not exactly. Google Translate is better than nothing, but can misinterpret important phrases or instructions. Let’s revisit the first image comparing department-oriented language, and service-oriented language:
 
 
-![There are two columns of text. The title of the first column is: Department-Oriented Language. The first bullet point reads Boards and Commissions. The second bullet point reads, Certification for MBE/WBE. The title of the second column is: Service-Oriented Language. The first bullet point reads Join a board and give feedback to council. The second bullet point reads Get certification for your Minority or Women-Owned Business.](/assets/img/comparing-department-to-service-oriented-language.png)
+![There are two columns of text. The title of the first column is: Department-Oriented Language. The first bullet point reads Boards and Commissions. The second bullet point reads, Certification for MBE/WBE. The title of the second column is: Service-Oriented Language. The first bullet point reads Join a board and give feedback to council. The second bullet point reads Get certification for your Minority or Women-Owned Business.]({{ site.baseurl }}/assets/img/comparing-department-to-service-oriented-language.png)
 
 Both Google Translate and a translation service would have a tough time creating a clear translation for MBE/WBE. An MBE/WBE is a Minority Business Enterprise or a Woman Business Enterprise, which is unclear to many residents as an acronym, and therefore makes it difficult to translate.
 
