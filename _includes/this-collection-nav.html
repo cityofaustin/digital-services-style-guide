@@ -1,0 +1,29 @@
+{% assign this_collection = site.collections | where: "label", page.collection | first %}
+
+{% unless page.collection.size > 0 %}
+
+  {% assign parent_slug = page.path | split: "/" | first | prepend: "/" | append: "/"  %}
+
+  {% assign sibling_pages = site.pages |  sort: "path" | sort: "position" %}
+  {% assign parent_folder = parent_slug %}
+
+{% elsif this_collection.docs.size > 0 %}
+
+  {% assign sibling_pages = this_collection.docs | sort: "path" | sort: "position" %}
+  {% assign parent_folder = page.collection | downcase | prepend: "/_" | append: "/"  %}
+
+{% else %}
+
+  {% assign sibling_pages = site.pages | sort: "path" | sort: "position" %}
+  {% assign parent_folder = "/" %}
+
+{% endunless %}
+
+{% capture same_collection_pages %}
+<nav>
+
+  {% include recursive-nav.html items=sibling_pages base_path=parent_folder %}
+
+</nav>
+{% endcapture %}
+{{ same_collection_pages }}
