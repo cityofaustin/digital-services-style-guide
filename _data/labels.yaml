@@ -14,9 +14,9 @@ site_nav:
   - label: Home
     path: /
   - label: Second Menu Item
-    path: /second
+    path: /second-link/
   - label: Third Menu Item
-    path: /third
+    path: /third-link/
   - label: Contact
     path: /contact/
 social_icons:
