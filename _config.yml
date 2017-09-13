@@ -1,5 +1,5 @@
-title: Zilker Theme
-description: Zilker is a Jekyll theme for City of Austin websites.
+title: Digital Services Style Guide
+description: The Digital Services Style Guide is a resource for writing better copy for City of Austin websites.
 email: innovationfellows@austintexas.gov
 timezone: UTC
 collections:
@@ -24,7 +24,7 @@ defaults:
     layout: sidebar-page
 
 baseurl:
-url: http://projects.austintexas.io
+url: http://styleguide.austintexas.io
 twitter:
   username: civiqueso
 zilker_theme: dark
