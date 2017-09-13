@@ -3,23 +3,23 @@ description: Zilker is a Jekyll theme for City of Austin websites.
 email: innovationfellows@austintexas.gov
 timezone: UTC
 collections:
-  examplecollection:
-    title: Example
+  words:
+    title: Words
     output: true
-    permalink: "/:collection/:path/"
+    permalink: "/:path/"
 
 defaults:
 - scope:
     path: ''
   values:
-    layout: full-page
+    layout: sidebar-page
 - scope:
     path: 'example-folder'
   values:
     layout: sidebar-page
 - scope:
     path: ''
-    type: examplecollection
+    type: words
   values:
     layout: sidebar-page
 

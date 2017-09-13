@@ -5,7 +5,7 @@ layout: full-page
 sitemap: false
 ---
 
-This policy is to inform visitors to [projects.austintexas.io](http://projects.austintexas.io/) and its companion websites of our online information practices. By using our websites, you acknowledge and accept all terms of use outlined below and also found on the [City of Austin website](http://www.austintexas.gov/page/privacy-policy). *Last updated: August 2017*
+This policy is to inform visitors to [{{ site.url }}](http://{{ site.url }}) and its companion websites of our online information practices. By using our websites, you acknowledge and accept all terms of use outlined below and also found on the [City of Austin website](http://www.austintexas.gov/page/privacy-policy). *Last updated: August 2017*
 
 ## Collection and Use of Personal Information
 Our website does not collect personal identifying information about you unless you voluntarily provide it. This notice applies to all information collected or submitted on projects.austintexas.io and its companion websites. The types of personal information collected at these pages include, but are not limited to:

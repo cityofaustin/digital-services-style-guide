@@ -4,17 +4,15 @@
 
     {% assign item_slug = item.path  | remove: ".md" | split: "/" | last | append: "/" %}
     {% assign parent_slug = item.path  | remove: ".md" | prepend: "/" | append: "/" | remove: item_slug %}
-
     {% if parent_slug == include.base_path %}
       <li>
         {% unless item.layout == "redirect" %}
           <a href="{{ site.baseurl }}{{ item.url }}"{% if page.url == item.url %}class="active"{% elsif page.url contains item.url %}class="active-parent"{% endif %} title="{{ item.title }}" role="menuitem">{{ item.title }}</a>
         {% else %}
-          {% unless item.project_name %}
+          {% unless item.section_name %}
             <h6 class="list-heading">{{ item.title }}</h6>
           {% else %}
-            <h4 class="project-name">{{ item.project_name }}</h4>
-            <p class="project-date">{{ site.data.labels.last_revision_prefix }} {{ item.date | date: '%B %e, %Y' }}</p>
+            <h4 class="project-name">{{ item.section_name }}</h4>
           {% endunless %}
         {% endunless %}
         {% assign inner_base_path = item.path | remove: ".md" | prepend: "/" | append: "/" %}

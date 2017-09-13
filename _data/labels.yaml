@@ -13,10 +13,6 @@ footer_credits: Office of Innovation • Communications & Technology Management
 site_nav:
   - label: Home
     path: /
-  - label: Second Menu Item
-    path: /second-link/
-  - label: Third Menu Item
-    path: /third-link/
   - label: Contact
     path: /contact/
 social_icons:
