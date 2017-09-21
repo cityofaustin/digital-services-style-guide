@@ -48,7 +48,8 @@ GIFs are fun to send to friends, but not great for accessibility. They can be a 
 ## Hyperlinks
 * Don’t use “click here” when you hyperlink language.
 * Use keywords and language that describes what will be found when clicking the link.
-    * For example: "Read more about diabetes" or "Find out more about diabetes."\
+    * For example: "Read more about diabetes" or "Find out more about diabetes."
+
 ## Video
 * Provide transcripts or captioning for videos.
 * Avoid videos with strobing or flashing as this can induce seizures in some users.
