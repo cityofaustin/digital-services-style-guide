@@ -7,7 +7,7 @@ Our digital services must be accessible to every single resident. Simple, servic
 It saves time because people don’t have to try to figure out what the department-specific jargon means and how it affects them.
 
 * If your Austin neighbor has a visual disability and uses adaptive-screen reading technology to read websites, it’s easier for them to navigate through pages with simple content.
-* The language should be so simple that someone in middle school should be able to understand it. Regardless of a resident’s educational background, service-oriented language strives to make the content clear for everyone.
+* The language should be so simple that someone in middle school should be able to understand it. It's important to write no higher than an 8th grade reading level. Regardless of a resident’s educational background, service-oriented language strives to make the content clear for everyone.
 * If someone is translating information for a friend or family member, using simple words will make it easier for the message to be delivered clearly in another language.
 
 View the federal law on accessibility at [Section 508](https://www.section508.gov/).
