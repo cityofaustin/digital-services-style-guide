@@ -20,7 +20,7 @@ Government sites are for everyone. Content should be as plain and straightforwar
 * Use active voice.
     * “The mayor held a community input meeting.” NOT “A community input meeting was held by the mayor.”
 
-Learn more about federal government [plain language standards](http://www.plainlanguage.gov/) and [content guide](https://pages.18f.gov/content-guide/).
+Use the [Hemingway app](http://www.hemingwayapp.com/) or [Grammarly](https://www.grammarly.com/) to help you write plainly. Learn more about federal government [plain language standards](http://www.plainlanguage.gov/) and [content guide](https://pages.18f.gov/content-guide/).
 
 ### Create Smart Structure
 Reading online is a very different experience than reading print. It is important to structure content so it’s easy for users to digest.
