@@ -12,10 +12,10 @@ Writing should be direct and engaging. This helps keep content simple and concis
 
 A fun way to remember this is adding "by Willie Nelson" after the verb in the sentence. If the sentence makes sense, it's passive voice, which should be avoided.
 
-> Another day was selected for the Council meeting (by Willie Nelson).
+> Another day was selected (by Willie Nelson) for the Council meeting.
 
 If you add "by Willie nelson" after the verb, and it doesn't make sense, it's active voice.
-> City Council selected another day for their meeting (by Willie Nelson).
+> City Council selected (by Willie Nelson) another day for their meeting.
 
 Learn more about [federal government guidelines for using active voice](http://www.plainlanguage.gov/howto/guidelines/FederalPLGuidelines/writeActive.cfm)
 
