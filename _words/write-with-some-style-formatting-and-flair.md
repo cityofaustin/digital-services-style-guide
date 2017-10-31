@@ -14,7 +14,7 @@ A fun way to remember this is adding "by Willie Nelson" after the verb in the se
 
 > Another day was selected (by Willie Nelson) for the Council meeting.
 
-If you add "by Willie nelson" after the verb, and it doesn't make sense, it's active voice.
+If you add "by Willie Nelson" after the verb, and it doesn't make sense, it's active voice.
 > City Council selected (by Willie Nelson) another day for their meeting.
 
 Learn more about [federal government guidelines for using active voice](http://www.plainlanguage.gov/howto/guidelines/FederalPLGuidelines/writeActive.cfm)
