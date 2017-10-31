@@ -1,5 +1,5 @@
 ---
-title: Make Hemingway Proud
+title: Make Hemingway proud
 position: 4
 ---
 ## Write with principle
