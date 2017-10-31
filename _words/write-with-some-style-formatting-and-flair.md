@@ -17,7 +17,7 @@ A fun way to remember this is adding "by Willie Nelson" after the verb in the se
 If you add "by Willie Nelson" after the verb, and it doesn't make sense, it's active voice.
 > City Council selected (by Willie Nelson) another day for their meeting.
 
-Learn more about [federal government guidelines for using active voice](http://www.plainlanguage.gov/howto/guidelines/FederalPLGuidelines/writeActive.cfm)
+Learn more about [federal government guidelines for using active voice.](http://www.plainlanguage.gov/howto/guidelines/FederalPLGuidelines/writeActive.cfm)
 
 ## Bullets
 Long paragraphs of text can be tiring to read, bullets help make content scannable. However, avoid using bullets if it’s only 1–2 bullet points as that can feel impersonal and terse. Formatting the content into a sentence can be friendlier and easier to read and remember.
