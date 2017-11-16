@@ -23,7 +23,7 @@ Using service-oriented language makes it easy for residents to find out what the
 * Breaking blocks of written content up into smaller chunks,
 * Implementing an intuitive menu/navigation
 
-![There are two columns of text. The title of the first column is: Department-Oriented Language. The first bullet point reads Boards and Commissions. The second bullet point reads, Certification for MBE/WBE. The title of the second column is: Service-Oriented Language. The first bullet point reads Join a board and give feedback to council. The second bullet point reads Get certification for your Minority or Women-Owned Business.]({{ site.url }}/assets/img/comparing-department-to-service-oriented-language.png))
+![There are two columns of text. The title of the first column is: Department-Oriented Language. The first bullet point reads Boards and Commissions. The second bullet point reads, Certification for MBE/WBE. The title of the second column is: Service-Oriented Language. The first bullet point reads Join a board and give feedback to council. The second bullet point reads Get certification for your Minority or Women-Owned Business.]({{ site.url }}/assets/img/comparing-department-to-service-oriented-language.png)
 
 Four examples of other cities and governments who are doing a great job of incorporating service-oriented language are:
 * [Pilot.Mass.gov](https://www.mass.gov/)
