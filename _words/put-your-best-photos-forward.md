@@ -11,32 +11,35 @@ Avoid adding photos just for the sake of having photos. Only add a photo when it
 
 ## Be Genuine and People-Oriented
 
-Photos should evoke warmth and be inclusive and diverse. 
+* Photos should evoke warmth and be inclusive and diverse. 
 
-Photos should be real and genuine. Do not use stock photos, models or over-posed/staged photos. 
+* Photos should be real and genuine. Do not use stock photos, models or over-posed/staged photos. 
 
-Photos should show action and have a human presence.
+* Photos should show action and have a human presence.
 
-Photos should be a detail or up-close shot of the subject or up to a distance of 15' maximum to streamline scale.
+* Photos should be a detail or up-close shot of the subject or up to a distance of 15' maximum to streamline scale.
 
 ## Be High Quality
-Photos should be crisp and high quality. 
+* Photos should be crisp and high quality. 
 
-Avoid blurring or using filters. 
-![A photo of a blank, white square.]({{ site.url }}/assets/img/bluraustin.jpg)
+* Avoid blurring or using filters. 
 
-Do not use photos that are stretched or shrunk. 
-![A photo of a blank, white square.]({{ site.url }}/assets/img/stretchedaustin.jpg)
+![A photo of Austin's skyline, but blurred.]({{ site.url }}/assets/img/bluraustin.jpg)
+
+* Do not use photos that are stretched or shrunk. 
+
+![A photo of Austin's skyline, but stretched.]({{ site.url }}/assets/img/stretchedaustin.jpg)
 
 ## Available for Use
 
-While photos should be people-oriented, avoid photos with identifiable faces, unless a photo release has been obtained by the person captured. Otherwise, if taking pictures of the public, try to capture photos of hands, backs of heads, etc. 
+* While photos should be people-oriented, avoid photos with identifiable faces, unless a photo release has been obtained by the person captured. Otherwise, if taking pictures of the public, try to capture photos of hands, backs of heads, etc. 
 
-Avoid photographing logos and other copyrighted materials
+* Avoid photographing logos and other copyrighted materials
 
-Do not use photos you have not taken yourself without explicit permission. photos can’t be taken from Google or any other website without the photographer’s permission, as this is copyright infringement. 
+* Do not use photos you have not taken yourself without explicit permission. photos can’t be taken from Google or any other website without the photographer’s permission, as this is copyright infringement. 
 
-Also, many photographers require attribution listed wherever the photo is located. Attribution would be: “Source: Jack Austin Photography” Here’s an example:
+* Also, many photographers require attribution listed wherever the photo is located. Attribution would be: “Source: Jack Austin Photography” Here’s an example:
 
-![A photo of a blank, white square.]({{ site.url }}/assets/img/austinskyline.png)
+![A photo of a Austin's skyline]({{ site.url }}/assets/img/austinskyline.png)
+Source: pexels.com
 
