@@ -11,7 +11,7 @@ Avoid adding photos just for the sake of having photos. Only add a photo when it
 
 ## Be Genuine and People-Oriented
 
-* Photos should evoke warmth and be inclusive and diverse. 
+* Photos should evoke warmth, be inclusive, and be diverse. 
 
 * Photos should be real and genuine. Do not use stock photos, models or over-posed/staged photos. 
 
