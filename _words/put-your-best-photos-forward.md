@@ -34,7 +34,7 @@ Avoid adding photos just for the sake of having photos. Only add a photo when it
 
 * While photos should be people-oriented, avoid photos with identifiable faces, unless a photo release has been obtained by the person captured. Otherwise, if taking pictures of the public, try to capture photos of hands, backs of heads, etc. 
 
-* Avoid photographing logos and other copyrighted materials
+* Avoid photographing logos and other copyrighted materials.
 
 * Do not use photos you have not taken yourself without explicit permission. photos can’t be taken from Google or any other website without the photographer’s permission, as this is copyright infringement. 
 
