@@ -41,5 +41,5 @@ Avoid adding photos just for the sake of having photos. Only add a photo when it
 * Also, many photographers require attribution listed wherever the photo is located. Attribution would be: “Source: Jack Austin Photography” Here’s an example:
 
 ![A photo of a Austin's skyline]({{ site.url }}/assets/img/austinskyline.png)
-Source: pexels.com
+[Source: pexels.com](https://www.pexels.com/photo/green-tree-macro-photography-668282/)
 
