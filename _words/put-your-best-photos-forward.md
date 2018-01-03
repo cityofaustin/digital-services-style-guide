@@ -38,8 +38,8 @@ Avoid adding photos just for the sake of having photos. Only add a photo when it
 
 * Do not use photos you have not taken yourself without explicit permission. photos can’t be taken from Google or any other website without the photographer’s permission, as this is copyright infringement. 
 
-* Also, many photographers require attribution listed wherever the photo is located. Attribution would be: “Source: Jack Austin Photography” Here’s an example:
+* Also, many photographers require attribution listed wherever the photo is located. Attribution would be: “Image source: Jack Austin Photography” Here’s an example:
 
 ![A photo of Austin's skyline.]({{ site.url }}/assets/img/austinskyline.jpeg)
-[Source: pexels.com](https://www.pexels.com/photo/green-tree-macro-photography-668282/)
+[Image source: pexels.com](https://www.pexels.com/photo/green-tree-macro-photography-668282/)
 
