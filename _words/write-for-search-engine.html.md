@@ -8,7 +8,7 @@ Page descriptions help search engines connect your content to users searching fo
 * Page descriptions should be no longer than 245 characters or the description will be cut off. This includes letters, numbers, symbols, and spaces.
 * Page descriptions are only visible in search engine results. They will not be visible on the page itself. 
 
-![A photo of a Google search result for Look up your trash, recycling, and compost pick up days.]({{ site.url }}/assets/img/Google_Search.png)
+![A photo of a Google search result for Look up your trash, recycling, and compost pick up days.]({{ site.url }}/assets/img/Google_Search.jpg)
 
 ## How to write an effective description
 In 2-3 full sentences, describe what is actually on the page in understandable, accessible language as if you were speaking to a resident. Try to use words or phrases you think residents would use to search for this content. And, don’t worry about including your department’s name or the page title in the description. The page title will already be visible in the search engine results. 
