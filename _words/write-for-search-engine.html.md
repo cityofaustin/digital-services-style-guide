@@ -1,4 +1,5 @@
-title: Write for search engines
+---
+title: Writer for search engines
 position: 9
 ---
 Page descriptions help search engines connect your content to users searching for it online. Users will use these descriptions to decide whether or not your page is what they are looking for, and if they want to visit it.
