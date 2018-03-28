@@ -4,7 +4,7 @@ position: 9
 ---
 Page descriptions help search engines connect your content to users searching for it online. Users will use these descriptions to decide whether or not your page is what they are looking for, and if they want to visit it.
 
-![A photo of a Google search result for Look up your trash, recycling, and compost pick up days.]({{ site.url }}/assets/img/Google_Search.jpg)
+![A photo of a Google search result diagram showing the location of the page title, URL, and page description for Look up your trash, recycling, and compost pick up days.]({{ site.url }}/assets/img/Google_Search.jpg)
 
 Page descriptions should describe clearly and concisely what a user will find if they visit the page you’re creating. Page descriptions are only visible in search engine results. They will not be visible on the page itself. 
 
