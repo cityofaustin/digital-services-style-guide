@@ -32,6 +32,13 @@ Long paragraphs of text can be tiring to read, bullets help make content scannab
 * Don’t capitalize personal titles unless they precede a name.
     * “Please call the city manager.”
     * “Nice to meet you, City Manager Smith.”
+    
+## Complete Sentences
+* Write in complete sentences. This ensures you are communicating a complete and clear statement to residents.
+* Avoid writing sentence fragments.
+    * "Shows no signs of improving after the input session."
+* Avoid writing run-on sentences.
+    * "The City will be requesting resident input on the new master plan residents have asked for meetings to be held after 6 p.m. in multiple locations to have all voices heard."
 
 ## Conscious Style
 * Use “older person” rather than “senior” or “elderly.”
