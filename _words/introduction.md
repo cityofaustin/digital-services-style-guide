@@ -3,7 +3,7 @@ title: Introduction
 permalink: /introduction/
 position: 0
 ---
-## Serve up content that’s as simple and satisfying as breakfast tacos.
+## Write content that’s as simple and resident-oriented
 
 Austin residents and visitors desire an easy, helpful and productive interaction with their local government through all digital channels. Much like a great taco is made up of quality ingredients, our job is to deliver quality content to our residents.
 
