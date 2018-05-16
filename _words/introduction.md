@@ -3,7 +3,7 @@ title: Introduction
 permalink: /introduction/
 position: 0
 ---
-## Write content that’s simple and resident-focused
+## Give residents content that’s simple, friendly, and people-oriented
 
 Austin residents and visitors desire an easy, helpful and productive interaction with their local government through all digital channels. Our job is to deliver quality content to our residents.
 
