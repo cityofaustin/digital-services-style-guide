@@ -5,7 +5,7 @@ position: 0
 ---
 ## Write content that’s simple and resident-focused
 
-Austin residents and visitors desire an easy, helpful and productive interaction with their local government through all digital channels. Much like a great taco is made up of quality ingredients, our job is to deliver quality content to our residents.
+Austin residents and visitors desire an easy, helpful and productive interaction with their local government through all digital channels. Our job is to deliver quality content to our residents.
 
 Rather than creating digital services based on organizational structure, hierarchy and assumptions, we will use user research to understand user needs and build digital services that center on the most important part of the City: the public.
 
