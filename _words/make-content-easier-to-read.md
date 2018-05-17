@@ -51,21 +51,17 @@ Long paragraphs of text can be tiring to read, bullets help make content scannab
 See tips from the [Conscious Style Guide](http://consciousstyleguide.com/) to create inclusive content.
 
 ## Context
-When users visit your page, they should be able understand what is on the page, the purpose of the page, and what actions they can take. A user should easily be able to answer the question: “What is this?” Avoid assuming that a user is familiar with your content. If they have to read the entire page first to understand what it is, then the page is lacking context. 
+When users visit your page, they should be able understand what is on the page, the purpose of the page, and what actions they can take. A user should easily be able to answer the question: “What is this?” Avoid assuming that a user is familiar with your content. If they have to read the entire page first to understand what it is, then the page is lacking context. For example, the page below is not clear to user what it is from first reading it.
 
-### This page gives no context
 #### Learn
 * Grow your skills
 * Become a better you
 * Our instructors are certified and qualified
 
-See all of our classes
+A better way to write this and give this page context would be:
 
-### This page gives context
 #### Take a Ceramics Class
 Learn hand building techniques for sculpting clay and create beautiful works of art in this 4-week course. Beginners are welcome. The next class starts March 20. 
-
-Sign up for this free class.
 
 To help you keep in mind context while writing, ask yourself:
 * Who is the user reading this content?
