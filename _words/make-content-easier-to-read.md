@@ -1,5 +1,5 @@
 ---
-title: Write with some style, formatting and flair
+title: Make content easier to read
 position: 5
 ---
 For writing in general, always refer to the [Associated Press Stylebook](https://www.apstylebook.com/). However, here are some recommended guidelines.
