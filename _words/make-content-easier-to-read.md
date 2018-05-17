@@ -57,15 +57,15 @@ A user should easily be able to answer the question: “What is this?” If they
 
 For example, let's say a department creates a page to offer classes to residents, the content below would not be clear as to what the page is about from first reading it:
 
-*Learn*
+**Learn** 
 * Grow your skills.
 * Become a better you.
 * Our instructors are certified and qualified.
 [Learn more](https://austintexas.gov/page/dac-ceramics)
 
-### A better way to start this page and give this content context would be:
+#### A better way to start this page and give this content context would be:
 
-*Take a Ceramics Class*
+**Take a Ceramics Class**
 Learn hand-building techniques for sculpting clay and create beautiful works of art in this 4-week course. Beginners are welcome. The next class starts March 20. [Sign up for the ceramics class here.](https://austintexas.gov/page/dac-ceramics)
 
 ## Design-Agnostic
