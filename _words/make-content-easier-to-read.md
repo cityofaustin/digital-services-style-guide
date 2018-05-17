@@ -51,9 +51,9 @@ Long paragraphs of text can be tiring to read, bullets help make content scannab
 See tips from the [Conscious Style Guide](http://consciousstyleguide.com/) to create inclusive content.
 
 ## Context
-When users visit your page, they should be able understand what is on the page, the purpose of the page, and what actions they can take. A user should easily be able to answer the question: “What is this?” 
+When users visit your page, they should be able understand what is on the page, the purpose of the page, and what actions they can take. Avoid writing your content in a way that assumes the user is already familiar with your content. 
 
-Avoid assuming that a user is familiar with your content. If they have to read the entire page first to understand what it is, then the page is lacking context. 
+A user should easily be able to answer the question: “What is this?” If they have to read the entire page first to understand what it is, then the page is lacking context. 
 
 For example, the content below is not clear to the user what it is about from first reading it:
 
@@ -62,10 +62,10 @@ For example, the content below is not clear to the user what it is about from fi
 * Become a better you.
 * Our instructors are certified and qualified.
 
-A better way to write this and give this page context would be:
+A better way to write this and give this content context would be:
 
 #### Take a Ceramics Class
-Learn hand building techniques for sculpting clay and create beautiful works of art in this 4-week course. Beginners are welcome. The next class starts March 20. Sign up for the [ceramics class here.]
+Learn hand building techniques for sculpting clay and create beautiful works of art in this 4-week course. Beginners are welcome. The next class starts March 20. [Sign up for the ceramics class here.](https://austintexas.gov/page/dac-ceramics)
 
 ## Design-Agnostic
 A page’s layout will change depending on the size of the user’s device. It’s important to not include any language that references an item’s position on a page to ensure the content doesn’t conflict with what the viewer is seeing on their device.
