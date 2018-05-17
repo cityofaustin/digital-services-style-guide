@@ -68,7 +68,7 @@ A better way to start this page and give this content context would be:
 
 **Take a Ceramics Class**
 
-Learn hand-building techniques for sculpting clay and create beautiful works of art in this 4-week course. Beginners are welcome. The next class starts March 20. [Sign up for the ceramics class here.](https://austintexas.gov/page/dac-ceramics)
+Learn hand-building techniques for sculpting clay, and create beautiful works of art in this 4-week course. Beginners are welcome. The next class starts March 20. [Sign up for the ceramics class here.](https://austintexas.gov/page/dac-ceramics)
 
 ## Design-Agnostic
 A page’s layout will change depending on the size of the user’s device. It’s important to not include any language that references an item’s position on a page to ensure the content doesn’t conflict with what the viewer is seeing on their device.
