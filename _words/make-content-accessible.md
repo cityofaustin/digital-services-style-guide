@@ -1,5 +1,5 @@
 ---
-title: Accessibility for all
+title: Make content accessible 
 position: 3
 ---
 Our digital services must be accessible to every single resident. Simple, service-oriented language that speaks to the service is the most accessible for residents.
