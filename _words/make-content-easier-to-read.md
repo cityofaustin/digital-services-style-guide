@@ -51,16 +51,17 @@ Long paragraphs of text can be tiring to read, bullets help make content scannab
 See tips from the [Conscious Style Guide](http://consciousstyleguide.com/) to create inclusive content.
 
 ## Context
-When users visit your page, they should be able understand what is on the page, the purpose of the page, and what actions they can take. Avoid writing your content in a way that assumes the user is already familiar with your content. 
+When users visit your page, they should be able to understand what is on the page, the purpose of the page, and what actions they can take. Avoid writing your content in a way that assumes the user is already familiar with your content. 
 
 A user should easily be able to answer the question: “What is this?” If they have to read the entire page first to understand what it is, then the page is lacking context. 
 
-For example, let's say a department creates a page to offer classes to residents, the content below is not clear what the page is about from first reading it:
+For example, let's say a department creates a page to offer classes to residents, the content below would not be clear as to what the page is about from first reading it:
 
 #### Learn
 * Grow your skills.
 * Become a better you.
 * Our instructors are certified and qualified.
+[Learn more](https://austintexas.gov/page/dac-ceramics)
 
 A better way to start this page and give this content context would be:
 
