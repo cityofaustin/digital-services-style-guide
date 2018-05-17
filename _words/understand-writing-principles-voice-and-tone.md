@@ -1,5 +1,5 @@
 ---
-title: Make Hemingway proud
+title: Understand writing principles, voice, and tone
 position: 4
 ---
 ## Write with principle
