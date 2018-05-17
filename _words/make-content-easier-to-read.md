@@ -62,7 +62,7 @@ For example, let's say a department creates a page to offer classes to residents
 * Grow your skills.
 * Become a better you.
 * Our instructors are certified and qualified.
-[Learn more](https://austintexas.gov/page/dac-ceramics)
+[Learn more.](https://austintexas.gov/page/dac-ceramics)
 
 A better way to start this page and give this content context would be:
 
