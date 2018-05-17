@@ -1,5 +1,5 @@
 ---
-title: Speak to the people, not over them
+title: What is service-oriented language?
 position: 2
 ---
 We want to make sure that people living in- or visiting- Austin can understand what’s on the City’s website. Moving forward, we want to take a people- and service-oriented approach to speak to residents.
