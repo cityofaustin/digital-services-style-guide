@@ -50,6 +50,32 @@ Long paragraphs of text can be tiring to read, bullets help make content scannab
 
 See tips from the [Conscious Style Guide](http://consciousstyleguide.com/) to create inclusive content.
 
+## Context
+When users visit your page, they should be able understand what is on the page, the purpose of the page, and what actions they can take. A user should easily be able to answer the question: “What is this?” Avoid assuming that a user is familiar with your content. If they have to read the entire page first to understand what it is, then the page is lacking context. 
+
+### This page gives no context
+#### Learn
+* Grow your skills
+* Become a better you
+* Our instructors are certified and qualified
+
+See all of our classes
+
+### This page gives context
+#### Take a Ceramics Class
+Learn hand building techniques for sculpting clay and create beautiful works of art in this 4-week course. Beginners are welcome. The next class starts March 20. 
+
+Sign up for this free class.
+
+To help you keep in mind context while writing, ask yourself:
+* Who is the user reading this content?
+* What is the purpose of this content? 
+* Why is the user accessing this content?
+* At what point will they come across this content and why? 
+* What kind of emotional or mind state will they be in when they have to access the content? 
+
+This will help you focus on writing your content clearer and make sure that you give the user the context they need to understand your content. 
+
 ## Design-Agnostic
 A page’s layout will change depending on the size of the user’s device. It’s important to not include any language that references an item’s position on a page to ensure the content doesn’t conflict with what the viewer is seeing on their device.
 * Avoid: “For time and location, view the class details to the right.”
