@@ -63,7 +63,7 @@ For example, let's say a department creates a page to offer classes to residents
 * Our instructors are certified and qualified.
 [Learn more](https://austintexas.gov/page/dac-ceramics)
 
-#### A better way to start this page and give this content context would be:
+A better way to start this page and give this content context would be:
 
 **Take a Ceramics Class**
 Learn hand-building techniques for sculpting clay and create beautiful works of art in this 4-week course. Beginners are welcome. The next class starts March 20. [Sign up for the ceramics class here.](https://austintexas.gov/page/dac-ceramics)
