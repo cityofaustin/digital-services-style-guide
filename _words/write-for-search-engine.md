@@ -14,3 +14,17 @@ In 2-3 full sentences, describe what is actually on the page in understandable, 
 And, don’t worry about including your department’s name or the page title in the description. The page title will already be visible in the search engine results. 
 
 Page descriptions should be no longer than 245 characters or the description will be cut off. This includes letters, numbers, symbols, and spaces.
+
+## How to tag your content 
+
+Tags are short phrases or words that describe a page’s content. They play a big role in helping users who are searching for specific content on our site find it using words or phrases they use in everyday life, and they help organize the content thematically. 
+
+Tags will not be visible to users on any austin.gov pages, but they will live on pages in the content management system and in the code.
+
+### How to tag well
+
+Tagging is simple. When you create a new page on the website, think about key words or short phrases that a user may use to find the content on the page you’re creating. 
+
+* When you get to the tagging box on the page editor, type in one of these keywords or phrases and hit enter.
+* You will see the word or phrase appear below the box. 
+* You may add up to ten tags per page.
