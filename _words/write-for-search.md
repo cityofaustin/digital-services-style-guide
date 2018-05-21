@@ -2,7 +2,7 @@
 title: Write for search 
 position: 9
 ---
-## Writing page descriptions
+## Page descriptions
 
 Page descriptions help search engines connect your content to users searching for it online. Users will use these descriptions to decide whether or not your page is what they are looking for, and if they want to visit it.
 
@@ -17,7 +17,7 @@ And, don’t worry about including your department’s name or the page title in
 
 Page descriptions should be no longer than 245 characters or the description will be cut off. This includes letters, numbers, symbols, and spaces.
 
-## Tagging your content 
+## Tags
 
 Tags are short phrases or words that describe a page’s content. They play a big role in helping users who are searching for specific content on our site find it using words or phrases they use in everyday life, and they help organize the content thematically. 
 
