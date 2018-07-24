@@ -2,12 +2,15 @@
 ---
 
 @import "zilker/all";
-.anchor {
-  display: block;
-  position: relative;
-  top: -10px;
+h2:before {
+  content: '';
+  display: block; 
+  position: relative; 
+  margin-top: -40px; 
+  height: 40px;
   @media only screen and (min-width: 64em) {
-    top: -80px;
+    margin-top: -115px;
+    height: 115px;
   }
   visibility: hidden;
 }
