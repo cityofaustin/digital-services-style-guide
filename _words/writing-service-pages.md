@@ -24,6 +24,13 @@ Pinnace Barbary Coast parley run a rig Cat o'nine tails log keel swing the lead 
 Carouser gun skysail come about fore aft dead men tell no tales yo-ho-ho walk the plank Yellow Jack. Nipper aft long boat Admiral of the Black galleon overhaul ahoy lookout grapple spyglass.
 
 <div></div>
+{: #apps .anchor}
+
+## Apps
+
+Yo-ho-ho Yellow Jack cutlass Shiver me timbers black jack avast wherry spyglass main sheet Brethren of the Coast. Blow the man down ballast fire ship clipper Jolly Roger hang the jib transom bilge water Jack Tar Barbary Coast.
+
+<div></div>
 {: #additional .anchor}
 
 ## Additional Content
