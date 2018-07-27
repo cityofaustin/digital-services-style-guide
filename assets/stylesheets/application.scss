@@ -2,3 +2,15 @@
 ---
 
 @import "zilker/all";
+h2:before, h3:before {
+  content: '';
+  display: block; 
+  position: relative; 
+  margin-top: -40px; 
+  height: 40px;
+  @media only screen and (min-width: 64em) {
+    margin-top: -115px;
+    height: 115px;
+  }
+  visibility: hidden;
+}
