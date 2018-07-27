@@ -2,7 +2,7 @@
 ---
 
 @import "zilker/all";
-h2:before {
+h2:before, h3:before {
   content: '';
   display: block; 
   position: relative; 

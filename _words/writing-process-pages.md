@@ -43,3 +43,18 @@ Quarter hang the jib Jack Ketch draft Sink me Sail ho gangplank Letter of Marque
 {: #step-link-title }
 
 Jolly Roger rigging killick Blimey tackle cackle fruit ballast blow the man down Davy Jones' Locker code of conduct.
+
+### Description
+{: #step-description }
+
+Jolly Roger rigging killick Blimey tackle cackle fruit ballast blow the man down Davy Jones' Locker code of conduct.
+
+### Steps
+{: #step-steps }
+
+Jolly Roger rigging killick Blimey tackle cackle fruit ballast blow the man down Davy Jones' Locker code of conduct.
+
+### Details
+{: #step-details }
+
+Jolly Roger rigging killick Blimey tackle cackle fruit ballast blow the man down Davy Jones' Locker code of conduct.
