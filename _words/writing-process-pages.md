@@ -58,3 +58,8 @@ Jolly Roger rigging killick Blimey tackle cackle fruit ballast blow the man down
 {: #step-details }
 
 Jolly Roger rigging killick Blimey tackle cackle fruit ballast blow the man down Davy Jones' Locker code of conduct.
+
+### Quote
+{: #step-quote }
+
+Jolly Roger rigging killick Blimey tackle cackle fruit ballast blow the man down Davy Jones' Locker code of conduct.
