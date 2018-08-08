@@ -3,6 +3,14 @@
 
 @import "zilker/all";
 
+h2:after {
+    width: 40px;
+    background: #ff715b;
+    height: 8px;
+    display: block;
+    content: "";
+}
+
   @media only screen and (min-width: 64em) {
     margin-top: -115px;
     height: 115px;
