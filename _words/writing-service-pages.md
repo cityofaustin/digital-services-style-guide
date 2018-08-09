@@ -43,7 +43,7 @@ A service page may include 2-10 steps. If a service require more than 10 steps, 
 ## Add an application
 {: #apps }
 
-If the steps reference an application a resident must use or would benefit from using or a location a user must visit to receive the service, then include it on the page whenever possible. This could be a widget or a maybe a map.
+If the steps reference an application like a map or widget that will help the resident access the service, include it on the page whenever possible.
 
 However, if there are any clarifications that need to be made about how to effectively use the application, make sure they are included in the step.
 
