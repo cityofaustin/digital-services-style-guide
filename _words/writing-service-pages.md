@@ -28,7 +28,7 @@ Images must be a minimum of 1440px x 320px in size.
 ## Write out clear steps
 {: #steps }
 
-The steps a resident must take to receive a service from the city need to be broken down to their simplest form. Each step should include a signle action the user must take, and there should not be multiple actions within a step. However, steps may include necessary clarifications.
+The steps a resident must take to receive a service from the city need to be broken down to their simplest form. Each step should include a single action the user must take, and there should not be multiple actions within a step. However, steps may include necessary clarifications.
 
 Since steps are single actions, they should be in a command format and, like a service page title, start with a verb. 
 
@@ -36,7 +36,7 @@ For example:
 
 "Type your street address in the box below. If you live in a multi-family home, like a duplex or fourplex, do not include your unit number."
 
-This step, gives a clear, single action a user must take, starts with a verb, and includes clarifications that are necessary for a user to effectively complete the step.
+This step gives a clear, single action a user must take, starts with a verb, and includes clarifications that are necessary for a user to effectively complete the step.
 
 A service page may include 2-10 steps. If a service require more than 10 steps, consider creating a process page instead.
 
