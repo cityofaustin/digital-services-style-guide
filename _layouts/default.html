@@ -6,9 +6,6 @@
   <body class="{{ page.url | replace:'index','home' | replace: '404','notfound' | replace:'.html','' | slugify }}-page">
     {% include header.html %}
     <main class="main">
-      <script>
-        window.location = "https://cityofaustin.gitbook.io/digital-style-guide/";
-      </script>
       {{ content }}
     </main>
     {% include footer.html %}
