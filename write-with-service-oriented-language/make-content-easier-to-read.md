@@ -57,6 +57,8 @@ Capitalize the first letter of the bulleted word.
 * Don’t capitalize personal titles unless they precede a name.
   * “Please call the city manager.”
   * “Nice to meet you, City Manager Smith.”
+* URLs should be lowercase unless they start a sentence.
+  * "Alpha.austin.gov is a work in progress."
 
 ### Complete sentences <a id="complete-sentences"></a>
 
