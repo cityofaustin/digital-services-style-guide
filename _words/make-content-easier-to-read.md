@@ -2,7 +2,7 @@
 title: Make content easier to read
 position: 5
 ---
-For writing in general, always refer to the [Associated Press Stylebook](https://www.apstylebook.com/). However, here are some recommended guidelines.
+For writing in general, always refer to the [Chicago Manual of Style](https://www.chicagomanualofstyle.org/book/ed17/part2/ch05/toc.html). However, here are some recommended guidelines.
 
 ## Acronyms
 Use words that everyday members of the public will know. Acronyms can often confuse users. If you must use acronyms, spell out the words the first time you reference it.
