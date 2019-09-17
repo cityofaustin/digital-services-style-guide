@@ -15,5 +15,3 @@
 * [Put your best photos forward](put-your-best-photos-forward.md)
 * [Check that your content is high quality](check-that-your-content-is-high-quality.md)
 
-## Pick the perfect content type <a id="pick-the-best-content-type"></a>
-
