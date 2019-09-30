@@ -37,20 +37,6 @@ When writing addresses, spell out street names. However, abbreviate states when 
 
     Austin, Texas 78754
 
-### Bullets <a id="bullets"></a>
-
-Long paragraphs of text can be tiring to read, bullets help make content scannable. However, avoid using bullets if it’s only 1–2 bullet points as that can feel impersonal and terse. Formatting the content into a sentence can be friendlier and easier to read and remember.
-
-Capitalize the first letter of the bulleted word.
-
-* Do:
-  * The class starts at 8pm in Room 241.
-  * Community gardens
-* Avoid:
-  * Room 241
-  * Starts at 8 p.m.
-  * community gardens
-
 ### Capitalization <a id="capitalization"></a>
 
 * Do capitalize proper nouns, including names of individuals, places, and agencies.
@@ -124,18 +110,94 @@ One of the easiest ways to ensure the longevity of your content is to make sure 
 
 Use header formatting to break up content. Do not use bold for headings. Users with visual impairments use screen readers to read websites, and screen readers do not recognize bold as a heading.
 
-### Lists <a id="lists"></a>
+### Lists and Bullets <a id="lists"></a>
 
-If there are instructions where only one action is acceptable, format them into a list and lead all non-primary options with “Or”. By having “Or” as the first word on subsequent actions, it makes it clear for people scanning a list that there are limited options. Remember to capitalize the first letter  of the word following each bullet. 
+When deciding to create a list, evaluate whether keeping details in-line might be the better option. If there are 3 or less items and each item can be explained simply, perhaps a bulleted list is not appropriate. Bullets are better for longer lists, more complex pieces of information, and pieces of information that you want to stand out.
+
+* Do:
+
+  This class will focus on budgeting, living independently, and reconnecting with family members. 
 
 * Avoid:
-  * Do this or
-  * Do this second thing or
-  * Do this third thing
+
+  This class will focus on:
+
+  * Budgeting
+  * Living independently
+  * Reconnecting with family members
+
+Once you decide to use a bulleted list, refer to these guidelines to ensure that your content is in alignment with the site's style policies.
+
+**Ideally, list items will be no more than one full sentence.** 
+
 * Do:
-  * Do this,
-  * Or do this second thing,
-  * Or do this third thing.
+
+  Household hazardous waste do’s and don’ts
+
+  * Don't endanger members of your community or the environment by throwing household hazardous waste in the trash or pouring it down the drain. 
+  * Do bring products in their original containers.
+  * If the original container is larger than 5-gallons, please call the Recycle and ReUse Center at 512-974-4343 to find out how to get your products ready for drop off.
+
+* Avoid:
+
+  Household hazardous waste do’s and don’ts
+
+  * Throwing household hazardous waste in the trash or pouring it down the drain is dangerous and harmful to the environment. Austin and Travis County residents can drop off up to 30-gallons of hazardous waste for free each year.
+  * Bring products in their original containers. If the original container is larger than 5-gallons, please call the Recycle and ReUse Center at 512-974-4343 to find out how to get your products ready for drop off.
+
+**Always capitalize the first word in a list item, and only end a list item with a period if there is a complete sentence.** 
+
+* Do:
+
+  To prevent damage to your property, keep bulk items 5 feet away from your:
+
+  * Trash cart
+  * Mailbox
+  * Fences or walls
+  * Water meter
+
+* Avoid: To prevent damage to your property, keep bulk items 5 feet away from your:
+  * trash cart.
+  * mailbox.
+  * fences or walls.
+  * water meter.
+
+**Do not end a list item with a comma.** 
+
+* Do:  
+  Locations include:
+
+  * Neighborhood centers
+  * Barber shops
+  * Liquor stores and bars
+  * Other easily accesible local establishments
+
+* Avoid:
+
+  Locations include:
+
+  * Neighborhood centers,
+  * Barber shops,
+  * Liquor stores and bars,
+  * And other easily accesible local establishments
+
+**When it is necessary to communicate that only one option is acceptable, give that description in-line. If the list items are more conditional than this, it might be a good opportunity to reevaluate whether a list is the right solution.** 
+
+* Do:
+
+  To achieve this goal, choose one of the following options:
+
+  * This first thing
+  * This second thing
+  * This third thing
+
+* Avoid:
+
+  To achieve this goal:
+
+  * Do this or
+  * Do this second thing or 
+  * Do this third thing
 
 ### Numbers <a id="numerals"></a>
 
