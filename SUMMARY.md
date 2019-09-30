@@ -14,4 +14,6 @@
 * [Make content accessible](make-content-accessible.md)
 * [Put your best photos forward](put-your-best-photos-forward.md)
 * [Check that your content is high quality](check-that-your-content-is-high-quality.md)
+* [Punctuation](punctuation.md)
+* [Tables](tables.md)
 
