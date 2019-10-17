@@ -4,6 +4,10 @@ Quality assurance is the process of checking that your web content is functionin
 
 [Siteimprove](https://my2.siteimprove.com/) is tool used by the City to maintain quality assurance. The tool crawls the site and checks for broken links and misspellings. Each department’s content manager will be provided an account and is responsible for using this tool to locate and address any issues on their site.
 
+### Fact Check
+
+Make sure every statement is correct and up to date. Ask yourself, is anything written in a date-specific way that would be outdated soon? If it makes sense for the topic, edit it to be always relevant.
+
 ### Browser Compatibility <a id="browser-compatibility"></a>
 
 Firefox is the recommended browser for editing in Drupal. However, users may be using different browsers. View your content in other browsers \(Chrome, Internet Explorer 11, Safari\) to ensure that there are no issues particular to that browser.
@@ -39,7 +43,7 @@ View any images, videos, documents or application embeds to make sure they are a
 
 ### Hyperlinks <a id="hyperlinks"></a>
 
-After publishing content, click on all hyperlinks to ensure that they work correctly. Broken links frustrate users and make your content coach sad.
+After publishing content, click on all hyperlinks to ensure that they work correctly. Broken links frustrate users and make your content coach sad. Make sure they link to reliable sources, too.   
 
 ### Mobile Compatibility <a id="mobile-compatibility"></a>
 

@@ -209,6 +209,10 @@ Once you decide to use a bulleted list, refer to these guidelines to ensure that
 * For amounts of money less than $1 million, use the dollar sign: $20.
 * In titles, subheadings, and interface labels, use numerals instead of spelling out numbers.
   * “7 Grants for Local Small Businesses”
+* Use the en dash with no spacing in number ranges.
+  * Yes: Accidental injuries are the leading cause of death among Travis County residents ages 1–44. 
+  * No: Accidental injuries are the leading cause of death among Travis County residents ages 1 to 44. 
+  * No: Accidental injuries are the leading cause of death among Travis County residents ages 1 – 44. 
 
 ### Phone numbers <a id="phone-numbers"></a>
 
@@ -234,14 +238,16 @@ We use sentence case for all web page titles, headings, and buttons, which means
 
 ### Time
 
-Always use numerals for time. Do not include “:00” for times on the hour. Lowercase “am” and “pm” and do not use periods. There is always a space between the numeral and “am” or “pm.” Use “noon” instead of “12 pm.”
+Always use numerals for time. Do not include “:00” for times on the hour. Lowercase “am” and “pm” and do not use periods. There is always a space between the numeral and “am” or “pm.” To indicate a time range, always use the en dash with no spacing instead of "to." Use “noon” instead of “12 pm.” 
 
 * Do:
-  * 9 am – 5 pm
+  * 9 am–5 pm
   * 9:30 pm
   * Noon
 * Avoid:
   * 9:00 a.m. – 5:00 p.m.
+  * 9 am – 5pm
+  * 9 am to 5pm
   * 9:30 P.M.
   * 12 p.m.  
 

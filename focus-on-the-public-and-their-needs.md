@@ -20,4 +20,5 @@ Here are some key questions to ask when building digital services:
 * What users find this service most difficult to use?
 * How often are we testing with everyday users?
 * How are you using these findings to address changes to the service?
+* Is all of the information on this page necessary to make residents read? Would it be better as internal communications instead of external content, for example?
 
