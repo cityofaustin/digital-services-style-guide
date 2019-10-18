@@ -6,7 +6,7 @@ description: >-
 
 # Official Documents Page
 
-Normally we advocate against linking to PDFs on a web page, but one exception is legal artifacts with signatures, stamps or seals, or redactions. The official documents content type was designed for users to read a brief overview of a complex or long legal artifact in a downloadable file format, as well as its size, before clicking the link to download. 
+Normally we advocate against linking to PDFs on a web page, but one exception is legal artifacts with signatures, stamps, seals, or redactions. The official documents content type was designed for users to read a brief overview of a complex or long legal artifact in a downloadable file format, as well as its size, before clicking the link to download. 
 
 If you want to publish information currently in a PDF that is not a legal artifact, first consider using a Service or Information page. If you have a large volume of PDFs that you want to share with residents, reach out to the Office of Design and Delivery for help: [odd@austintexas.gov](mailto:odd@austintexas.gov).
 
