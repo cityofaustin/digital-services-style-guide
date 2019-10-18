@@ -6,6 +6,7 @@
   * [Service Page](pick-the-perfect-content-type/service-page.md)
   * [Information Page](pick-the-perfect-content-type/information-page.md)
   * [Department Page](pick-the-perfect-content-type/department-page.md)
+  * [Official Documents Page](pick-the-perfect-content-type/official-documents-page.md)
 * [Use service-oriented language](write-with-service-oriented-language/README.md)
   * [Understand writing principles, voice, and tone](write-with-service-oriented-language/understand-writing-principles-voice-and-tone.md)
   * [Make content easier to read](write-with-service-oriented-language/make-content-easier-to-read.md)
