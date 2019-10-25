@@ -75,3 +75,7 @@ When writing City web content, your voice should always be:
 
 Voice is constant, but tone is variable. Choose your tone based on the content and context. Your tone will be more direct and official when writing a City memo in comparison to a more enthusiastic, relaxed tone for a notice about a children’s event.
 
+### Usage
+
+
+

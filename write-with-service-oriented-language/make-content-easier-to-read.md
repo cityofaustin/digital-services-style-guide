@@ -37,6 +37,26 @@ When writing addresses, spell out street names. However, abbreviate states when 
 
     Austin, Texas 78754
 
+### Job titles
+
+We follow the Chicago Manual of Style rules on job title capitalization.
+
+* Lowercase titles in running text:
+  * The city manager has the right to revoke an event permit...
+* But capitalize when preceding
+  * I spoke with Mayor Steve Adler.
+
+### Academic degrees
+
+We follow the Chicago Manual of Style rules on academic degrees and similar.  
+
+
+* Lowercase degrees:
+  * Stephanie is a licensed master level social worker
+
+  
+
+
 ### Capitalization <a id="capitalization"></a>
 
 * Do capitalize proper nouns, including names of individuals, places, and agencies.
