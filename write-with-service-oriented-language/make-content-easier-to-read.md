@@ -241,6 +241,8 @@ Most mobile devices are able to automatically detect a phone number and turn it 
 * Do: “Call the Help Desk at \(512\) 974-4357.”
 * Avoid: Letters for words, like “To call the Help Desk, call \(512\) 974-HELP.”
 
+3-1-1 uses dashes
+
 ### Sentence case
 
 We use sentence case for all web page titles, headings, and buttons, which means capitalizing only the first word and proper nouns. Names of departments are capitalized.
