@@ -50,7 +50,7 @@ If there is any additional information or clarifications that may be helpful for
 
 ### Select a contact <a id="contacts"></a>
 
-Contacts for a specific service should never be an individual, but instead include public-facing contact information such as a department name and public number, a public facility name and number, or 311.
+Contacts for a specific service should never be an individual, but instead include public-facing contact information such as a department name and public number, a public facility name and number, or 3-1-1.
 
 ### Write an effective page description <a id="searchdescription"></a>
 

@@ -22,7 +22,7 @@ This section shares your department’s mission with the public. Keep the vision
 
 ### **Select a contact**
 
-Contacts for a specific service should never be an individual, but instead include public-facing contact information such as a department name and public number, a public facility name and number, or 311.
+Contacts for a specific service should never be an individual, but instead include public-facing contact information such as a department name and public number, a public facility name and number, or 3-1-1.
 
 ### **Department director block, optional**
 
