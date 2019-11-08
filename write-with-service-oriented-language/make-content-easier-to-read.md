@@ -6,7 +6,11 @@ For writing in general, always refer to the[ Chicago Manual of Style](https://ww
 
 ### Acronyms <a id="acronyms"></a>
 
-Use words that everyday members of the public will know. Acronyms can often confuse users. If you must use acronyms, spell out the words the first time you reference it.
+Use words that everyday members of the public will know. Acronyms can often confuse users. If you must use acronyms, as in technical documents written for a specific audience, spell out the words the first time you reference it, then use the acronym afterward. For example: 
+
+> The Institute of Electrical and Electronics Engineers \(IEEE\) is a professional association for electronic engineering and electrical engineering. IEEE produces over 30% of the world's literature in the electrical and electronics engineering and computer science fields.
+
+When you're writing on the web or for print materials, always spell out the acronym. Writing simply and accessibly generally reduces the need to use acronyms. 
 
 ### Active voice <a id="active-voice"></a>
 
