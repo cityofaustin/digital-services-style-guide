@@ -7,12 +7,20 @@ collections:
     title: Words
     output: true
     permalink: "/:path/"
+  guide:
+    permalink: "/:path/"
+    output: true
 
 defaults:
 - scope:
     path: ''
   values:
     layout: sidebar-page
+- scope:
+    path: _guide
+    type: guide
+  values:
+    layout: default
 - scope:
     path: 'example-folder'
   values:
