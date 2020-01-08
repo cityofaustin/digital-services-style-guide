@@ -1,3 +1,5 @@
+---
+---
 # Manage Your Content
 
 ### Content governance
@@ -20,4 +22,3 @@ Follow these stages while considering:
 * Who should be responsible or involved, including residents, in each stage?
 * How long does each stage take?
 * What tools will support each stage?
-

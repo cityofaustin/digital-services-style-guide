@@ -1,5 +1,6 @@
+---
+---
 # Use service-oriented language
-
 
 
 We want to make sure that people living in- or visiting- Austin can understand what’s on the City’s website. Moving forward, we want to take a people- and service-oriented approach to speak to residents.
@@ -31,4 +32,3 @@ Four examples of other cities and governments who are doing a great job of incor
 * [Boston.Gov](https://www.boston.gov/)
 * [GOV.UK](https://www.gov.uk/)
 * [Manchester.gov.uk](http://manchester.gov.uk/)
-

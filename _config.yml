@@ -7,12 +7,20 @@ collections:
     title: Words
     output: true
     permalink: "/:path/"
+  guide:
+    permalink: "/:path/"
+    output: true
 
 defaults:
 - scope:
     path: ''
   values:
     layout: sidebar-page
+- scope:
+    path: _guide
+    type: guide
+  values:
+    layout: default
 - scope:
     path: 'example-folder'
   values:
@@ -29,10 +37,13 @@ twitter:
   username: civiqueso
 zilker_theme: dark
 markdown: kramdown
+include:
+  - README.md
 gems:
 - jekyll-seo-tag
 - jekyll-sitemap
 - jekyll-redirect-from
+- jekyll-optional-front-matter
 webrick:
   headers:
     Access-Control-Allow-Origin: "*"

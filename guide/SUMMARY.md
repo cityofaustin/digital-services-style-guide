@@ -18,4 +18,3 @@
 * [Manage Your Content](manage-your-content.md)
 * [Punctuation](punctuation.md)
 * [Tables](tables.md)
-
