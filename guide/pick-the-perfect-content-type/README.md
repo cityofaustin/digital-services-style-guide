@@ -1,6 +1,4 @@
 ---
-title: Pick the perfect page type
-position: 7
 ---
 # Pick the perfect page type
 
