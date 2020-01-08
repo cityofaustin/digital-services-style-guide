@@ -37,10 +37,13 @@ twitter:
   username: civiqueso
 zilker_theme: dark
 markdown: kramdown
+include:
+  - README.md
 gems:
 - jekyll-seo-tag
 - jekyll-sitemap
 - jekyll-redirect-from
+- jekyll-optional-front-matter
 webrick:
   headers:
     Access-Control-Allow-Origin: "*"

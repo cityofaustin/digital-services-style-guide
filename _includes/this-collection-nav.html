@@ -14,9 +14,13 @@
 {% capture same_collection_pages %}
 <nav>
   <!-- {% include recursive-nav.html items=sibling_pages base_path=parent_folder %} -->
+<<<<<<< Updated upstream
   {% capture toc %}{% include SUMMARY.md %}{% endcapture %}
   {{ toc | markdownify }}
 
+=======
+  {% include hard-coded-nav.html %}
+>>>>>>> Stashed changes
 </nav>
 {% endcapture %}
 {{ same_collection_pages }}
