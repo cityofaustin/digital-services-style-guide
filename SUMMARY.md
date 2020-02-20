@@ -3,6 +3,7 @@
 * [Introduction](README.md)
 * [Focus on the public and their needs](focus-on-the-public-and-their-needs.md)
 * [Pick the perfect page type](pick-the-perfect-content-type/README.md)
+  * [Location page](pick-the-perfect-content-type/location-page.md)
   * [Service Page](pick-the-perfect-content-type/service-page.md)
   * [Information Page](pick-the-perfect-content-type/information-page.md)
   * [Department Page](pick-the-perfect-content-type/department-page.md)
@@ -18,3 +19,4 @@
 * [Manage Your Content](manage-your-content.md)
 * [Punctuation](punctuation.md)
 * [Tables](tables.md)
+
