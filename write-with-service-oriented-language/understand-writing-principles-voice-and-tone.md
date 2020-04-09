@@ -1,8 +1,8 @@
 # Understand writing principles, voice, and tone
 
-### Write with principle <a id="write-with-principle"></a>
+## Write with principle <a id="write-with-principle"></a>
 
-#### Reflect user needs <a id="reflect-user-needs"></a>
+### Reflect user needs <a id="reflect-user-needs"></a>
 
 Write to address the user; help them find the information they need quickly and easily. Ask yourself:
 
@@ -10,7 +10,7 @@ Write to address the user; help them find the information they need quickly and 
 * What’s the point of this page?
 * What’s the most important takeaway?
 
-#### Use plain language <a id="use-plain-language"></a>
+### Use plain language <a id="use-plain-language"></a>
 
 Government sites are for everyone. Content should be as plain and straightforward as possible.
 
@@ -24,7 +24,7 @@ Government sites are for everyone. Content should be as plain and straightforwar
 
 Use the [Hemingway app](http://www.hemingwayapp.com/) or [Grammarly](https://www.grammarly.com/) to help you write plainly. Learn more about federal government [plain language standards](http://www.plainlanguage.gov/) and [content guide](https://pages.18f.gov/content-guide/).
 
-#### Create smart structure <a id="create-smart-structure"></a>
+### Create smart structure <a id="create-smart-structure"></a>
 
 Reading online is a very different experience than reading print. It is important to structure content so it’s easy for users to digest.
 
@@ -36,13 +36,13 @@ Reading online is a very different experience than reading print. It is importan
   * Many times information is updated on the webpage, but not the FAQs, which leads to conflicting information and confusing for the resident.
   * They mean that content is not where users expect to find it—it needs to be in context.
 
-### Write with brevity <a id="write-with-brevity"></a>
+## Write with brevity <a id="write-with-brevity"></a>
 
-#### People are on their phones <a id="people-are-on-their-phones"></a>
+### People are on their phones <a id="people-are-on-their-phones"></a>
 
 > “I would expect the link that I googled to take me straight to the page… This has happened to me before. I’ve gone \[to this page\] and said, “Where is it? Because it’s below the fold.” - An Austin Resident during usability testing
 
-#### People don’t want \(or have time\) to navigate <a id="people-dont-want-or-have-time-to-navigate"></a>
+### People don’t want \(or have time\) to navigate <a id="people-dont-want-or-have-time-to-navigate"></a>
 
 Based on usability testing, we’ve heard from residents that it’s not easy to navigate a website based on a department organization because they don’t have time to browse the website or read a long description. They want to find what they need to know about a service and get on with their lives.
 
@@ -60,9 +60,9 @@ If you have large documents that a resident might need, keep it on City servers 
 
 In addition to being brief, don’t forget to archive content that is out of date or no longer relevant to our residents. This makes content easier to search, and to find, because there is less of it on the website.
 
-### Voice and tone: How you say things matters <a id="voice-and-tone-how-you-say-things-matters"></a>
+## Voice and tone: How you say things matters <a id="voice-and-tone-how-you-say-things-matters"></a>
 
-#### Voice <a id="voice"></a>
+### Voice <a id="voice"></a>
 
 When writing City web content, your voice should always be:
 
@@ -71,11 +71,9 @@ When writing City web content, your voice should always be:
 * Instructive
 * Professional
 
-#### Tone <a id="tone"></a>
+### Tone <a id="tone"></a>
 
 Voice is constant, but tone is variable. Choose your tone based on the content and context. Your tone will be more direct and official when writing a City memo in comparison to a more enthusiastic, relaxed tone for a notice about a children’s event.
 
-### Usage
-
-
+## Usage
 

@@ -1,8 +1,6 @@
 # Write for all languages, please, por favor, xin vui long, رجاء, 請
 
-
-
-### Make translation easier <a id="make-translation-easier"></a>
+## Make translation easier <a id="make-translation-easier"></a>
 
 Writing with service-oriented language makes it easier to translate content into other languages, and therefore easier to access by all residents.
 

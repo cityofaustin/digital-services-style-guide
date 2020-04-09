@@ -1,7 +1,5 @@
 # Focus on the public and their needs
 
-
-
 To successfully build digital services, we must explore the needs of the people who will use the service. Think about the basic human needs:
 
 * Food \(mmmm tacos\)

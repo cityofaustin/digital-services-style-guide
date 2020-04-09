@@ -1,6 +1,6 @@
 # Punctuation
 
-Use a single en dash with no spaces to indicate a campus location. 
+Use a single en dash with no spaces to indicate a campus location.
 
 **Do:**
 

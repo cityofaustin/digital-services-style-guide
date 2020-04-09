@@ -1,18 +1,16 @@
 # Make content easier to read
 
-
-
 For writing in general, always refer to the[ Chicago Manual of Style](https://www.chicagomanualofstyle.org/book/ed17/part2/ch05/toc.html). However, here are some recommended guidelines.
 
-### Acronyms <a id="acronyms"></a>
+## Acronyms <a id="acronyms"></a>
 
-Use words that everyday members of the public will know. Acronyms can often confuse users. If you must use acronyms, as in technical documents written for a specific audience, spell out the words the first time you reference it, then use the acronym afterward. For example: 
+Use words that everyday members of the public will know. Acronyms can often confuse users. If you must use acronyms, as in technical documents written for a specific audience, spell out the words the first time you reference it, then use the acronym afterward. For example:
 
 > The Institute of Electrical and Electronics Engineers \(IEEE\) is a professional association for electronic engineering and electrical engineering. IEEE produces over 30% of the world's literature in the electrical and electronics engineering and computer science fields.
 
-When you're writing on the web or for print materials, always spell out the acronym. Writing simply and accessibly generally reduces the need to use acronyms. 
+When you're writing on the web or for print materials, always spell out the acronym. Writing simply and accessibly generally reduces the need to use acronyms.
 
-### Active voice <a id="active-voice"></a>
+## Active voice <a id="active-voice"></a>
 
 Writing should be direct and engaging. This helps keep content simple and concise.
 
@@ -26,7 +24,7 @@ If you add “by Willie Nelson” after the verb, and it doesn’t make sense, i
 
 Learn more about [federal government guidelines for using active voice.](http://www.plainlanguage.gov/howto/guidelines/FederalPLGuidelines/writeActive.cfm)
 
-### Addresses
+## Addresses
 
 When writing addresses, spell out street names. However, abbreviate states when spelling out a full address.
 
@@ -41,7 +39,7 @@ When writing addresses, spell out street names. However, abbreviate states when 
 
     Austin, Texas 78754
 
-### Job titles
+## Job titles
 
 We follow the Chicago Manual of Style rules on job title capitalization.
 
@@ -50,18 +48,14 @@ We follow the Chicago Manual of Style rules on job title capitalization.
 * But capitalize when preceding
   * I spoke with Mayor Steve Adler.
 
-### Academic degrees
+## Academic degrees
 
-We follow the Chicago Manual of Style rules on academic degrees and similar.  
-
+We follow the Chicago Manual of Style rules on academic degrees and similar.
 
 * Lowercase degrees:
   * Stephanie is a licensed master level social worker
 
-  
-
-
-### Capitalization <a id="capitalization"></a>
+## Capitalization <a id="capitalization"></a>
 
 * Do capitalize proper nouns, including names of individuals, places, and agencies.
 * Don’t capitalize personal titles unless they precede a name.
@@ -70,7 +64,7 @@ We follow the Chicago Manual of Style rules on academic degrees and similar.
 * URLs should be lowercase unless they start a sentence.
   * "Alpha.austin.gov is a work in progress."
 
-### Complete sentences <a id="complete-sentences"></a>
+## Complete sentences <a id="complete-sentences"></a>
 
 * Write in complete sentences. This ensures you are communicating a complete and clear statement to residents.
 * Avoid writing sentence fragments.
@@ -78,7 +72,7 @@ We follow the Chicago Manual of Style rules on academic degrees and similar.
 * Avoid writing run-on sentences.
   * “The City will be requesting resident input on the new master plan residents have asked for meetings to be held after 6 p.m. in multiple locations to have all voices heard.”
 
-### Conscious style <a id="conscious-style"></a>
+## Conscious style <a id="conscious-style"></a>
 
 * Avoid using “citizen,” as many government programs serve non-citizens. Instead, use:
 * * People
@@ -88,7 +82,7 @@ We follow the Chicago Manual of Style rules on academic degrees and similar.
 
 See tips from the [Conscious Style Guide](http://consciousstyleguide.com/) to create inclusive content.
 
-### Context <a id="context"></a>
+## Context <a id="context"></a>
 
 When users visit your page, they should be able to understand what is on the page, the purpose of the page, and what actions they can take. Avoid writing your content in a way that assumes the user is already familiar with your content.
 
@@ -108,7 +102,7 @@ A better way to start this page and give this content context would be:
 
 Learn hand-building techniques for sculpting clay, and create beautiful works of art in this 4-week course. Beginners are welcome. The next class starts March 20. [Sign up for the ceramics class here.](https://austintexas.gov/page/dac-ceramics)
 
-### Design-agnostic <a id="design-agnostic"></a>
+## Design-agnostic <a id="design-agnostic"></a>
 
 A page’s layout will change depending on the size of the user’s device. It’s important to not include any language that references an item’s position on a page to ensure the content doesn’t conflict with what the viewer is seeing on their device.
 
@@ -120,7 +114,7 @@ One of the easiest ways to ensure the longevity of your content is to make sure 
 * Avoid: “Click the green “Enroll” button to start the enrollment process.”
 * Do: “Click the “Enroll” button to start the enrollment process.”
 
-### Emphasis <a id="emphasis"></a>
+## Emphasis <a id="emphasis"></a>
 
 * Don’t use all caps, as it looks as if you are yelling at the user.
 * Avoid italics, as they are hard to read online.
@@ -130,17 +124,17 @@ One of the easiest ways to ensure the longevity of your content is to make sure 
 * Do not use colored text.
   * The color of the text has been carefully chosen to meet accessibility guidelines. By adding a custom color or by using colors differently from other parts of the site, you risk making the content inaccessible and confusing for users.
 
-### Headings <a id="headings"></a>
+## Headings <a id="headings"></a>
 
 Use header formatting to break up content. Do not use bold for headings. Users with visual impairments use screen readers to read websites, and screen readers do not recognize bold as a heading.
 
-### Lists and Bullets <a id="lists"></a>
+## Lists and Bullets <a id="lists"></a>
 
 When deciding to create a list, evaluate whether keeping details in-line might be the better option. If there are 3 or less items and each item can be explained simply, perhaps a bulleted list is not appropriate. Bullets are better for longer lists, more complex pieces of information, and pieces of information that you want to stand out.
 
 * Do:
 
-  This class will focus on budgeting, living independently, and reconnecting with family members. 
+  This class will focus on budgeting, living independently, and reconnecting with family members.
 
 * Avoid:
 
@@ -152,7 +146,7 @@ When deciding to create a list, evaluate whether keeping details in-line might b
 
 Once you decide to use a bulleted list, refer to these guidelines to ensure that your content is in alignment with the site's style policies.
 
-**Ideally, list items will be no more than one full sentence.** 
+**Ideally, list items will be no more than one full sentence.**
 
 * Do:
 
@@ -169,7 +163,7 @@ Once you decide to use a bulleted list, refer to these guidelines to ensure that
   * Throwing household hazardous waste in the trash or pouring it down the drain is dangerous and harmful to the environment. Austin and Travis County residents can drop off up to 30-gallons of hazardous waste for free each year.
   * Bring products in their original containers. If the original container is larger than 5-gallons, please call the Recycle and ReUse Center at 512-974-4343 to find out how to get your products ready for drop off.
 
-**Always capitalize the first word in a list item, and only end a list item with a period if there is a complete sentence.** 
+**Always capitalize the first word in a list item, and only end a list item with a period if there is a complete sentence.**
 
 * Do:
 
@@ -186,16 +180,13 @@ Once you decide to use a bulleted list, refer to these guidelines to ensure that
   * fences or walls.
   * water meter.
 
-**Do not end a list item with a comma.** 
+**Do not end a list item with a comma.**
 
-* Do:  
-  Locations include:
-
+* Do: Locations include:
   * Neighborhood centers
   * Barber shops
   * Liquor stores and bars
   * Other easily accesible local establishments
-
 * Avoid:
 
   Locations include:
@@ -205,7 +196,7 @@ Once you decide to use a bulleted list, refer to these guidelines to ensure that
   * Liquor stores and bars,
   * And other easily accesible local establishments
 
-**When it is necessary to communicate that only one option is acceptable, give that description in-line. If the list items are more conditional than this, it might be a good opportunity to reevaluate whether a list is the right solution.** 
+**When it is necessary to communicate that only one option is acceptable, give that description in-line. If the list items are more conditional than this, it might be a good opportunity to reevaluate whether a list is the right solution.**
 
 * Do:
 
@@ -223,7 +214,7 @@ Once you decide to use a bulleted list, refer to these guidelines to ensure that
   * Do this second thing or 
   * Do this third thing
 
-### Numbers <a id="numerals"></a>
+## Numbers <a id="numerals"></a>
 
 * Show numbers as numerals to make it easier readers to scan the text.
   * To prevent damage to your property, keep bulk items 5 feet away from your parked car.
@@ -238,7 +229,7 @@ Once you decide to use a bulleted list, refer to these guidelines to ensure that
   * No: Accidental injuries are the leading cause of death among Travis County residents ages 1 to 44. 
   * No: Accidental injuries are the leading cause of death among Travis County residents ages 1 – 44. 
 
-### Phone numbers <a id="phone-numbers"></a>
+## Phone numbers <a id="phone-numbers"></a>
 
 Most mobile devices are able to automatically detect a phone number and turn it into a clickable link. This makes it easy for users to simply tap on the number to initiate a call instead of having to manually type in a phone number. Phone numbers should use the following convention, with the area code offset in parentheses.
 
@@ -247,7 +238,7 @@ Most mobile devices are able to automatically detect a phone number and turn it 
 
 3-1-1 uses dashes
 
-### Sentence case
+## Sentence case
 
 We use sentence case for all web page titles, headings, and buttons, which means capitalizing only the first word and proper nouns. Names of departments are capitalized.
 
@@ -262,9 +253,9 @@ We use sentence case for all web page titles, headings, and buttons, which means
   * Office of police oversight
   * Add Another \[button\]
 
-### Time
+## Time
 
-Always use numerals for time. Do not include “:00” for times on the hour. Lowercase “am” and “pm” and do not use periods. There is always a space between the numeral and “am” or “pm.” To indicate a time range, always use the en dash with no spacing instead of "to." Use “noon” instead of “12 pm.” 
+Always use numerals for time. Do not include “:00” for times on the hour. Lowercase “am” and “pm” and do not use periods. There is always a space between the numeral and “am” or “pm.” To indicate a time range, always use the en dash with no spacing instead of "to." Use “noon” instead of “12 pm.”
 
 * Do:
   * 9 am–5 pm
