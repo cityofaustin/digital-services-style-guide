@@ -43,9 +43,29 @@ GIFs are fun to send to friends, but not great for accessibility. They can be a 
 
 ## Hyperlinks <a id="hyperlinks"></a>
 
-* Don’t use “click here” when you hyperlink language.
-* Use keywords and language that describes what will be found when clicking the link.
-  * For example: “Read more about diabetes” or “Find out more about diabetes.”
+### Do:
+
+* Be descriptive.
+* Give a preview of what will be found by clicking.
+* Include file size on links to download a file \(e.g., PDF, spreadsheet\).
+
+Example:
+
+* Diabetes can be managed with diet and exercise. **Read more about diabetes prevention.** 
+* **Download the care manual \(96 kb\)** for more information.
+
+### Don't:
+
+* Use “click here” 
+* Be vague 
+* Navigate away from the website \(have external sites open in a new tab\)
+
+Example:
+
+* **Click here** for Diabetes info.
+* **Here** is more info.
+
+
 
 ## Video <a id="video"></a>
 
