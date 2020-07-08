@@ -33,7 +33,7 @@ When adding entries, you will need to write or upload the following fields:
 
 The information will display on the website in this layout:
 
-![An example of an Official Documents entry](../.gitbook/assets/screen-shot-2019-10-15-at-6.53.33-pm.png)
+![An example of an Official Documents entry](../../.gitbook/assets/screen-shot-2019-10-15-at-6.53.33-pm.png)
 
 Usually, the information for fields 1, 2, and 3 can be found in the document itself.
 

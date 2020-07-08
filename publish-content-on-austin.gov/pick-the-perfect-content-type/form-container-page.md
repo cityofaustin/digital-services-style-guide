@@ -28,7 +28,7 @@ What happens when you click Submit at the end of a form? Good forms include a cu
 
 After creating your form in Formstack, copy the top link provided in the Share tab. You will need to paste this link in Joplin.
 
-![The link you will need to paste in Joplin is highlighted with a blue box.](../.gitbook/assets/screen-shot-2020-03-04-at-10.01.10-am.png)
+![The link you will need to paste in Joplin is highlighted with a blue box.](../../.gitbook/assets/screen-shot-2020-03-04-at-10.01.10-am.png)
 
 ### Build a form container in Joplin
 
