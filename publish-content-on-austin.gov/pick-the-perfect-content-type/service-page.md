@@ -32,7 +32,12 @@ For example:
 
 This step gives a clear, single action a user must take, starts with a verb, and includes clarifications that are necessary for a user to effectively complete the step.
 
-A service page may include 2-10 steps. If a service require more than 10 steps, consider creating a process page instead.
+#### Tips for writing steps
+
+* A service page may include 2-10 steps. If a service requires more than 10 steps, consider creating a guide instead.
+* You can create a button within steps for actionable links. However, if a link is mid-sentence, using a simple hyperlink is best.
+
+
 
 ## Add an application <a id="apps"></a>
 
