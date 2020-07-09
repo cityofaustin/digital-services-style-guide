@@ -32,12 +32,13 @@ For example:
 
 This step gives a clear, single action a user must take, starts with a verb, and includes clarifications that are necessary for a user to effectively complete the step.
 
-#### Tips for writing steps
+### Tips for writing steps
 
 * A service page may include 2-10 steps. If a service requires more than 10 steps, consider creating a guide instead.
-* You can create a button within steps for actionable links. However, if a link is mid-sentence, using a simple hyperlink is best.
-
-
+* You can create a button within steps for actionable links. However, if a link is mid-sentence, using a simple hyperlink is best. To create a button: 
+  * Choose the type of step you want.
+  * Click "button" in the step menu. 
+  * Type the name of your button between the two lines that appear in the text field.
 
 ## Add an application <a id="apps"></a>
 
