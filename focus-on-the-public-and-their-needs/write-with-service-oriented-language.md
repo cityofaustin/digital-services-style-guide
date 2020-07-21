@@ -23,6 +23,8 @@ Using service-oriented language makes it easy for residents to find out what the
 
 ![There are two columns of text. The title of the first column is: Department-Oriented Language. The first bullet point reads Boards and Commissions. The second bullet point reads, Certification for MBE/WBE. The title of the second column is: Service-Oriented Language. The first bullet point reads Join a board and give feedback to council. The second bullet point reads Get certification for your Minority or Women-Owned Business.](https://cityofaustin.github.io/digital-services-style-guide/assets/img/comparing-department-oriented-to-service-oriented-language.png)
 
+There will be times when you must use department names in resident-facing content.  A good rule of thumb is: If a resident must call, email, go to, or otherwise interact with a department or division in order to access a service or information, use the department or division's name. Remember to capitalize the name, since it is a pronoun. If it's not necessary to use the name, rewrite it to focus on the action required or other key information.
+
 Four examples of other cities and governments who are doing a great job of incorporating service-oriented language are:
 
 * [Mass.gov](http://mass.gov)
