@@ -6,6 +6,8 @@ Forms are used to collect information from residents and are often part of a ser
 
 Whenever possible, make a digital form rather than a PDF. PDFs do not always work well in a browser and are often inaccessible for people who have vision impairments. Many residents use their phones to access the web and don’t always have access to a computer or printer, so requiring users to print and fill out a form by hand is also inaccessible. 
 
+There may be times when you can offer more than one way to fill out and submit the form. In this situation, add those options to the service page that the form is associated with.  An example of this can be seen on austin.gov's [police complaint service page.](https://alpha.austin.gov/en/police-oversight/file-a-complaint-about-an-austin-police-officer/)
+
 Read the [City of Austin’s Digital Forms Guide](https://city-of-austin.gitbook.io/digital-forms-guide/) for more information about best practices.
 
 ## Create a form for austin.gov
