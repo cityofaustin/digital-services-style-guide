@@ -16,6 +16,7 @@
 * [Manage Your Content](manage-your-content.md)
 * [Publish content on austin.gov](publish-content-on-austin.gov/README.md)
   * [Pick the perfect page type](publish-content-on-austin.gov/pick-the-perfect-content-type/README.md)
+    * [Guide](publish-content-on-austin.gov/pick-the-perfect-content-type/guide.md)
     * [Location page](publish-content-on-austin.gov/pick-the-perfect-content-type/location-page.md)
     * [Form container page](publish-content-on-austin.gov/pick-the-perfect-content-type/form-container-page.md)
     * [Service page](publish-content-on-austin.gov/pick-the-perfect-content-type/service-page.md)
