@@ -2,7 +2,6 @@
 
 * [Introduction](README.md)
 * [Write content for residents](focus-on-the-public-and-their-needs/README.md)
-  * [Avoid catch-all pages or FAQ pages](focus-on-the-public-and-their-needs/avoid-catch-all-pages-or-faq-pages.md)
   * [Use service-oriented language](focus-on-the-public-and-their-needs/write-with-service-oriented-language.md)
   * [Understand writing principles, voice, and tone](focus-on-the-public-and-their-needs/understand-writing-principles-voice-and-tone.md)
   * [Make content easier to read](focus-on-the-public-and-their-needs/make-content-easier-to-read.md)
