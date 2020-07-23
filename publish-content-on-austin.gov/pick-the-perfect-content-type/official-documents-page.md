@@ -10,11 +10,11 @@ Normally we advocate against linking to PDFs on a web page, but one exception is
 
 If you want to publish information currently in a PDF that is not a legal artifact, first consider using a Service or Information page. If you have a large volume of PDFs that you want to share with residents, reach out to the Office of Design and Delivery for help: [odd@austintexas.gov](mailto:odd@austintexas.gov).
 
-**Write a concise title.**
+## **Write a concise title.**
 
 Titles need to be clear, concise, and specific. A good title conveys exactly what kind of documents can be found on the page.
 
-**Write a concise page description.**
+## **Write a concise page description.**
 
 Using 1-2 complete sentences and accessible language, describe what can be found on the page. Steer clear of acronyms, abbreviations, and jargon. The description can include the department name and the purpose of sharing the documents. For example, this is the Official Documents description for the Office of Police Oversight:
 

@@ -2,20 +2,20 @@
 
 Photographs are a visual representation of the City and of Austin. As such, they should be professional, beautiful, compelling and representative of the diversity and unique character Austin offers. All photos should:
 
-## Give Context <a id="give-context"></a>
+## Give context <a id="give-context"></a>
 
 Photos should be related to the associated information and give the resident context. For example, use an image of a resident placing their Christmas tree on a curb for the “Recycle your Christmas Tree” service page.
 
 Avoid adding photos just for the sake of having photos. Only add a photo when it provides context and helps the reader with comprehension. Otherwise, the photo only serves as clutter.
 
-## Be Genuine and People-Oriented <a id="be-genuine-and-people-oriented"></a>
+## Be genuine and people-oriented <a id="be-genuine-and-people-oriented"></a>
 
 * Photos should evoke warmth, be inclusive, and be diverse.
 * Photos should be real and genuine. Do not use stock photos, models or over-posed/staged photos.
 * Photos should show action and have a human presence.
 * Photos should be a detail or up-close shot of the subject or up to a distance of 15’ maximum to streamline scale.
 
-## Be High Quality <a id="be-high-quality"></a>
+## Be high quality <a id="be-high-quality"></a>
 
 * Photos should be crisp and high quality.
 * Avoid blurring or using filters.
@@ -26,7 +26,7 @@ Avoid adding photos just for the sake of having photos. Only add a photo when it
 
 ![A photo of Austin&apos;s skyline, but stretched.](https://cityofaustin.github.io/digital-services-style-guide/assets/img/stretchedaustin.jpg)
 
-## Available for Use <a id="available-for-use"></a>
+## Available for use <a id="available-for-use"></a>
 
 * While photos should be people-oriented, avoid photos with identifiable faces, unless a photo release has been obtained by the person captured. Otherwise, if taking pictures of the public, try to capture photos of hands, backs of heads, etc.
 * Avoid photographing logos and other copyrighted materials.
