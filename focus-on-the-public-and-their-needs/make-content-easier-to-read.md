@@ -78,7 +78,7 @@ We follow the Chicago Manual of Style rules on academic degrees and similar.
 * * People
   * The public
   * Users
-* Use gender-neutral text, like “they” and “them.” Change “fireman” to “firefighter.”
+* Use gender neutral text, like “they” and “them.” Change “fireman” to “firefighter.”
 
 See tips from the [Conscious Style Guide](http://consciousstyleguide.com/) to create inclusive content.
 

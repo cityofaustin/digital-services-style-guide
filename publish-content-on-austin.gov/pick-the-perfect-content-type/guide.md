@@ -31,7 +31,7 @@ For example, the [mobile food vendor permit guide](https://alpha.austin.gov/en/p
 
 Next, break down the steps that must be taken during each phase. Each step can be drafted as a stand-alone information or service page. 
 
-### **D**igitize forms.
+### **D**igitize forms
 
 You will want to gather any documentation that the resident must complete and submit in order to achieve their goal. Consider [digitizing the forms](https://app.gitbook.com/@cityofaustin/s/digital-style-guide/~/drafts/-MCm6R59SuCHivBy9u-u/publish-content-on-austin.gov/pick-the-perfect-content-type/form-container-page), if possible.
 
