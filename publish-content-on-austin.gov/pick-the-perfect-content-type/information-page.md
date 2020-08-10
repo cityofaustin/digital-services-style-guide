@@ -2,6 +2,12 @@
 
 An Information Page provides supplementary information and resources for Service Pages to support service delivery.
 
+## Write with SEO in mind
+
+### Research keywords
+
+Start by thinking about words and phrases you would use to find this page. What problem is the searcher intending to solve? Try searching one of those phrases in Google, then scroll to the bottom of the first page and check the suggestions under “Searches related to \(your search term\).” Which of these most closely matches the searcher’s intent? Pick 2-3 keywords to incorporate into the title, description, the first 1-2 headers, and the first 1-2 paragraphs or steps.
+
 ## **Write a descriptive title**
 
 Titles need to be clear and specific about what the resident will find on the page. A simple formula is: Noun + primary and secondary keywords. For example, Measles in Austin or Chronic disease prevention.
@@ -37,4 +43,6 @@ This section makes up the bulk of the Information Page, and supports long form c
 ## **Select a contact**
 
 Contacts for a specific service should never be an individual, but instead include public-facing contact information such as a department name and public number, a public facility name and number, or 3-1-1.
+
+## 
 

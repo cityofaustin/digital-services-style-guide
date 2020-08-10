@@ -2,6 +2,12 @@
 
 Service pages are used to outline all the steps a resident needs to take in order to access a City service and any supporting information they may need.
 
+## Write with SEO in mind
+
+### Research keywords
+
+Start by thinking about words and phrases you would use to find this page. What problem is the searcher intending to solve? Try searching one of those phrases in Google, then scroll to the bottom of the first page and check the suggestions under “Searches related to \(your search term\).” Which of these most closely matches the searcher’s intent? Pick 2-3 keywords to incorporate into the title, description, the first 1-2 headers, and the first 1-2 steps or to "Related information" after the steps.
+
 ## Write an actionable title <a id="title"></a>
 
 Service page titles need to be clear, specific, and start with a verb. It should be less than 58 characters so it doesn't get cut off in search results.
