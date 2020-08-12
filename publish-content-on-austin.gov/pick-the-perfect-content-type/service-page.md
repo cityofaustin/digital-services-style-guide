@@ -34,9 +34,31 @@ Since steps are single actions, they should be in a command format and, like a s
 
 For example:
 
-“Type your street address in the box below. If you live in a multi-family home, like a duplex or fourplex, do not include your unit number.”
+> Type your street address in the box below. If you live in a multi-family home, like a duplex or fourplex, do not include your unit number.
 
 This step gives a clear, single action a user must take, starts with a verb, and includes clarifications that are necessary for a user to effectively complete the step.
+
+### Include locations and options when appropriate
+
+You can add locations and options to your service page steps. Locations can be added when a City location is critical to the service. For example, if a resident must appear in-person at the Office of Vital Records to pick up their birth certificate, then include the location in a step.
+
+Options should be actionable. Options are useful when there are multiple ways to make a payment or when there are different instructions based on a user’s eligibility.
+
+A good example of how options should be used is visible on [a page instructing mobile food vendors how to report changes to their business](https://alpha.austin.gov/austin-public-health/report-changes-to-your-mobile-food-business/). The author used options to display the 3 different ways that a report can be made \(email, mail, and in-person\).
+
+Do not use options to break down complex, non-actionable information that would work better in a bulleted list or with headers. Instead of writing this:
+
+> Step 1. Submit proof of payment or resolution.
+>
+> Option 1. On or before the suspension date printed on the notice of suspension \(recommended\)
+>
+> Option 2. After the suspension date
+>
+> Option 3. Not at all
+
+Write this:
+
+> It is important to submit proof of payment or resolution on or before the suspension date printed on the notice. If you don’t, you will incur fines and/or your driving privilege will be suspended.
 
 ### Tips for writing steps
 
