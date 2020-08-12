@@ -1,7 +1,6 @@
 # Table of contents
 
 * [Introduction](README.md)
-* [Translate your content](translate-your-content.md)
 * [Write content for residents](focus-on-the-public-and-their-needs/README.md)
   * [Use service-oriented language](focus-on-the-public-and-their-needs/write-with-service-oriented-language.md)
   * [Understand writing principles, voice, and tone](focus-on-the-public-and-their-needs/understand-writing-principles-voice-and-tone.md)
@@ -16,6 +15,7 @@
   * [Make content accessible](focus-on-the-public-and-their-needs/make-content-accessible.md)
   * [Check that your content is high quality](focus-on-the-public-and-their-needs/check-that-your-content-is-high-quality.md)
   * [Put your best photos forward](focus-on-the-public-and-their-needs/put-your-best-photos-forward.md)
+* [Translate your content](translate-your-content.md)
 * [Manage Your Content](manage-your-content.md)
 * [Publish content on austin.gov](publish-content-on-austin.gov/README.md)
   * [Pick the perfect page type](publish-content-on-austin.gov/pick-the-perfect-content-type/README.md)
