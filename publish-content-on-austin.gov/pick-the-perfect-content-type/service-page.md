@@ -2,11 +2,11 @@
 
 Service pages are used to outline all the steps a resident needs to take in order to access a City service and any supporting information they may need.
 
-## Write with SEO in mind
+## Research keywords
 
-### Research keywords
+The best way to make sure your content is findable is to write using keywords. When drafting a service page in Joplin, you can navigate to the "Notes" tab at the top to find a text box for gathering keywords. This is just a simple tool that allows you to save keywords and allow other authors to reference them.  
 
-Start by thinking about words and phrases you would use to find this page. What problem is the searcher intending to solve? Try searching one of those phrases in Google, then scroll to the bottom of the first page and check the suggestions under “Searches related to \(your search term\).” Which of these most closely matches the searcher’s intent? Pick 2-3 keywords to incorporate into the title, description, the first 1-2 headers, and the first 1-2 steps or to "Related information" after the steps.
+Reference [the section of this style guide devoted to making content findable](https://app.gitbook.com/@cityofaustin/s/digital-style-guide/~/drafts/-MEY2fJmOy9M-2Ro-frs/focus-on-the-public-and-their-needs/make-your-content-findable) for best practice information.
 
 ## Write an actionable title <a id="title"></a>
 

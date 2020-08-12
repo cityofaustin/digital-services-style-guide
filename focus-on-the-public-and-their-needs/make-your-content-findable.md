@@ -1,5 +1,11 @@
 # Make your content findable
 
+## Write with SEO in mind
+
+### Research keywords
+
+Start by thinking about words and phrases you would use to find this page. What problem is the searcher intending to solve? Try searching one of those phrases in Google, then scroll to the bottom of the first page and check the suggestions under “Searches related to \(your search term\).” Which of these most closely matches the searcher’s intent? Pick 2-3 keywords to incorporate into the title, description, the first 1-2 headers, and the first 1-2 steps or to "Related information" after the steps.
+
 ## Page descriptions <a id="page-descriptions"></a>
 
 Page descriptions help search engines connect your content to users searching for it online. Users will use these descriptions to decide whether or not your page is what they are looking for, and if they want to visit it.
