@@ -40,7 +40,7 @@ This step gives a clear, single action a user must take, starts with a verb, and
 
 ### Include locations and options when appropriate
 
-You can add locations and options to your service page steps. Locations can be added when a City location is critical to the service. For example, if a resident must appear in-person at the Office of Vital Records to pick up their birth certificate, then include the location in a step.
+You can add locations and options to your service page steps. Locations should be added when a City location is critical to the service. For example, if a resident must appear in-person at the Office of Vital Records to pick up their birth certificate, then include the location in a step.
 
 Options should be actionable. Options are useful when there are multiple ways to make a payment or when there are different instructions based on a user’s eligibility.
 
