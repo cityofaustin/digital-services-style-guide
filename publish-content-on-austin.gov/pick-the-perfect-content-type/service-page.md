@@ -46,7 +46,7 @@ Options should be actionable. Options are useful when there are multiple ways to
 
 A good example of how options should be used is visible on [a page instructing mobile food vendors how to report changes to their business](https://alpha.austin.gov/austin-public-health/report-changes-to-your-mobile-food-business/). The author used options to display the 3 different ways that a report can be made \(email, mail, and in-person\).
 
-Do not use options to break down complex, non-actionable information that would work better in a bulleted list or with headers. Instead of writing this:
+Do not use options to break down complex, non-actionable information that would be better explained with plain language. Structuring the content with headers or bulleted lists can also help. For example, instead of this:
 
 > Step 1. Submit proof of payment or resolution.
 >
@@ -58,6 +58,9 @@ Do not use options to break down complex, non-actionable information that would 
 
 Write this:
 
+> Step 1.
+>
+> **Meet your deadline**  
 > It is important to submit proof of payment or resolution on or before the suspension date printed on the notice. If you don’t, you will incur fines and/or your driving privilege will be suspended.
 
 ### Tips for writing steps
